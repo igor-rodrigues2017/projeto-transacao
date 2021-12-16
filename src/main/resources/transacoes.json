@@ -1,0 +1,4569 @@
+{
+  "usuario": "Edil",
+  "transacoes": [
+    {
+      "id": "61ba7ab080db0d9473bfd8bf",
+      "valor": 3394.8753,
+      "tipo": 1,
+      "estabelecimento": "GLOBOIL",
+      "registered": "2015-04-03T04:21:51+03:00"
+    },
+    {
+      "id": "61ba7ab04baea1d92c52410c",
+      "valor": 2787.013,
+      "tipo": 1,
+      "estabelecimento": "IDEALIS",
+      "registered": "2018-11-29T02:28:48+02:00"
+    },
+    {
+      "id": "61ba7ab06f10b8756e60d88a",
+      "valor": 3621.0264,
+      "tipo": 1,
+      "estabelecimento": "LEXICONDO",
+      "registered": "2015-11-27T09:01:19+02:00"
+    },
+    {
+      "id": "61ba7ab072312d03299edab3",
+      "valor": 3239.0928,
+      "tipo": 1,
+      "estabelecimento": "VENOFLEX",
+      "registered": "2015-11-20T07:19:01+02:00"
+    },
+    {
+      "id": "61ba7ab063d9ef7a5a7455b2",
+      "valor": 3684.3911,
+      "tipo": 1,
+      "estabelecimento": "ISOTERNIA",
+      "registered": "2014-01-11T10:37:22+02:00"
+    },
+    {
+      "id": "61ba7ab05923a3570765ef6a",
+      "valor": 3778.7368,
+      "tipo": 2,
+      "estabelecimento": "MENBRAIN",
+      "registered": "2015-12-19T11:50:25+02:00"
+    },
+    {
+      "id": "61ba7ab0ed9ec40365cc3ee9",
+      "valor": 2534.9978,
+      "tipo": 2,
+      "estabelecimento": "EVEREST",
+      "registered": "2014-09-20T11:18:32+03:00"
+    },
+    {
+      "id": "61ba7ab0c82cc300897f1301",
+      "valor": 2544.8689,
+      "tipo": 2,
+      "estabelecimento": "UNISURE",
+      "registered": "2020-09-29T12:51:06+03:00"
+    },
+    {
+      "id": "61ba7ab054ebbdc328504be0",
+      "valor": 1028.9106,
+      "tipo": 2,
+      "estabelecimento": "PHARMACON",
+      "registered": "2021-05-18T09:58:37+03:00"
+    },
+    {
+      "id": "61ba7ab01f9a31365513fb1e",
+      "valor": 3985.0376,
+      "tipo": 1,
+      "estabelecimento": "GRONK",
+      "registered": "2014-05-20T03:32:42+03:00"
+    },
+    {
+      "id": "61ba7ab0de8f59d81a1540dd",
+      "valor": 2691.3601,
+      "tipo": 2,
+      "estabelecimento": "SKYBOLD",
+      "registered": "2018-08-03T06:29:17+03:00"
+    },
+    {
+      "id": "61ba7ab0bf5380b1a89d4b40",
+      "valor": 3025.5849,
+      "tipo": 2,
+      "estabelecimento": "DAYCORE",
+      "registered": "2015-12-23T03:22:36+02:00"
+    },
+    {
+      "id": "61ba7ab0fdb47555988484fc",
+      "valor": 1830.1163,
+      "tipo": 2,
+      "estabelecimento": "SLUMBERIA",
+      "registered": "2014-11-18T12:40:22+02:00"
+    },
+    {
+      "id": "61ba7ab0990688482fec8221",
+      "valor": 2475.3726,
+      "tipo": 1,
+      "estabelecimento": "HOMETOWN",
+      "registered": "2014-03-10T10:54:38+03:00"
+    },
+    {
+      "id": "61ba7ab00210c0d4b5a83416",
+      "valor": 3128.7949,
+      "tipo": 2,
+      "estabelecimento": "VIOCULAR",
+      "registered": "2014-03-24T04:21:27+03:00"
+    },
+    {
+      "id": "61ba7ab0af7fa9aabcbeb893",
+      "valor": 2309.6614,
+      "tipo": 2,
+      "estabelecimento": "ZILENCIO",
+      "registered": "2019-07-27T08:19:53+03:00"
+    },
+    {
+      "id": "61ba7ab0bfe25cb969a56e52",
+      "valor": 3056.8637,
+      "tipo": 2,
+      "estabelecimento": "NEOCENT",
+      "registered": "2020-02-02T05:35:48+03:00"
+    },
+    {
+      "id": "61ba7ab004474433f7f9d530",
+      "valor": 1123.6188,
+      "tipo": 2,
+      "estabelecimento": "VERAQ",
+      "registered": "2018-03-23T06:44:12+03:00"
+    },
+    {
+      "id": "61ba7ab0f25533d4b7f0dcac",
+      "valor": 3038.865,
+      "tipo": 2,
+      "estabelecimento": "ZENCO",
+      "registered": "2021-06-11T03:41:13+03:00"
+    },
+    {
+      "id": "61ba7ab068cde4b036947082",
+      "valor": 1083.1737,
+      "tipo": 2,
+      "estabelecimento": "ZILLIDIUM",
+      "registered": "2018-02-26T07:58:48+03:00"
+    },
+    {
+      "id": "61ba7ab0a518fc0a2b6d53e3",
+      "valor": 3536.9885,
+      "tipo": 1,
+      "estabelecimento": "WATERBABY",
+      "registered": "2020-11-15T10:29:17+03:00"
+    },
+    {
+      "id": "61ba7ab035a690b01d2cf7e7",
+      "valor": 3944.4127,
+      "tipo": 1,
+      "estabelecimento": "PETICULAR",
+      "registered": "2016-04-26T02:11:15+03:00"
+    },
+    {
+      "id": "61ba7ab03a8e0db27d65aad1",
+      "valor": 3897.8173,
+      "tipo": 1,
+      "estabelecimento": "EZENT",
+      "registered": "2020-07-20T03:42:20+03:00"
+    },
+    {
+      "id": "61ba7ab04f5b6e4bffe07a94",
+      "valor": 2143.1016,
+      "tipo": 1,
+      "estabelecimento": "POLARIA",
+      "registered": "2021-07-14T02:17:11+03:00"
+    },
+    {
+      "id": "61ba7ab0e70b17c2b7a7d476",
+      "valor": 3904.0545,
+      "tipo": 1,
+      "estabelecimento": "OHMNET",
+      "registered": "2016-01-18T02:47:08+02:00"
+    },
+    {
+      "id": "61ba7ab0f5938c5d36be77a2",
+      "valor": 2942.0514,
+      "tipo": 2,
+      "estabelecimento": "GEEKY",
+      "registered": "2017-10-18T03:20:40+02:00"
+    },
+    {
+      "id": "61ba7ab0e7342ba28e0b43a5",
+      "valor": 2735.3257,
+      "tipo": 1,
+      "estabelecimento": "COMFIRM",
+      "registered": "2021-05-21T11:19:47+03:00"
+    },
+    {
+      "id": "61ba7ab0071c798cbc482421",
+      "valor": 2128.5464,
+      "tipo": 1,
+      "estabelecimento": "STOCKPOST",
+      "registered": "2017-06-10T07:25:19+03:00"
+    },
+    {
+      "id": "61ba7ab01b13acfe43ed35fd",
+      "valor": 3625.3304,
+      "tipo": 1,
+      "estabelecimento": "SOPRANO",
+      "registered": "2018-11-05T08:35:12+02:00"
+    },
+    {
+      "id": "61ba7ab0f2ee67e64718ea9f",
+      "valor": 2884.1345,
+      "tipo": 1,
+      "estabelecimento": "ZENOLUX",
+      "registered": "2016-10-14T06:19:03+03:00"
+    },
+    {
+      "id": "61ba7ab0ca1b725aa271ee2b",
+      "valor": 1853.9284,
+      "tipo": 1,
+      "estabelecimento": "INSURITY",
+      "registered": "2016-10-24T12:51:37+02:00"
+    },
+    {
+      "id": "61ba7ab072456c9c9da14993",
+      "valor": 3712.1619,
+      "tipo": 1,
+      "estabelecimento": "SYNKGEN",
+      "registered": "2018-05-22T12:22:28+03:00"
+    },
+    {
+      "id": "61ba7ab0eaadb845483bc3e8",
+      "valor": 3140.8927,
+      "tipo": 1,
+      "estabelecimento": "HAIRPORT",
+      "registered": "2015-07-10T01:40:34+03:00"
+    },
+    {
+      "id": "61ba7ab007695c6596fbda1e",
+      "valor": 3848.2897,
+      "tipo": 1,
+      "estabelecimento": "JOVIOLD",
+      "registered": "2014-10-29T05:57:29+02:00"
+    },
+    {
+      "id": "61ba7ab0cbdf7a82210686c5",
+      "valor": 2949.5544,
+      "tipo": 2,
+      "estabelecimento": "ZORK",
+      "registered": "2016-05-29T05:36:16+03:00"
+    },
+    {
+      "id": "61ba7ab0df97cd8dd744ddb3",
+      "valor": 2796.2021,
+      "tipo": 1,
+      "estabelecimento": "METROZ",
+      "registered": "2014-11-17T02:56:47+02:00"
+    },
+    {
+      "id": "61ba7ab0cf13418e1a4e7cee",
+      "valor": 1344.5011,
+      "tipo": 1,
+      "estabelecimento": "DUFLEX",
+      "registered": "2018-03-07T06:55:26+03:00"
+    },
+    {
+      "id": "61ba7ab050edf76ff5298f96",
+      "valor": 1381.9887,
+      "tipo": 2,
+      "estabelecimento": "ROBOID",
+      "registered": "2018-04-25T07:55:05+03:00"
+    },
+    {
+      "id": "61ba7ab003d853689cae06d2",
+      "valor": 1480.4258,
+      "tipo": 1,
+      "estabelecimento": "YOGASM",
+      "registered": "2019-07-18T09:01:55+03:00"
+    },
+    {
+      "id": "61ba7ab0b3949b5e5cb2fa9b",
+      "valor": 1991.1529,
+      "tipo": 2,
+      "estabelecimento": "LUNCHPOD",
+      "registered": "2015-05-02T03:44:46+03:00"
+    },
+    {
+      "id": "61ba7ab00ba0464d1148f1ed",
+      "valor": 1740.5379,
+      "tipo": 2,
+      "estabelecimento": "RECRISYS",
+      "registered": "2018-07-13T12:45:17+03:00"
+    },
+    {
+      "id": "61ba7ab01aac37d6e47371d2",
+      "valor": 3107.8856,
+      "tipo": 1,
+      "estabelecimento": "GEEKULAR",
+      "registered": "2015-08-29T01:21:48+03:00"
+    },
+    {
+      "id": "61ba7ab08c44038442cf05b9",
+      "valor": 2350.2613,
+      "tipo": 1,
+      "estabelecimento": "FUTURITY",
+      "registered": "2016-01-24T05:00:28+02:00"
+    },
+    {
+      "id": "61ba7ab0105a18ed55a072ca",
+      "valor": 2388.3078,
+      "tipo": 2,
+      "estabelecimento": "ANOCHA",
+      "registered": "2017-05-02T10:57:20+03:00"
+    },
+    {
+      "id": "61ba7ab09ed3e17bf7037aad",
+      "valor": 3402.6309,
+      "tipo": 2,
+      "estabelecimento": "IMAGEFLOW",
+      "registered": "2014-06-29T03:34:54+03:00"
+    },
+    {
+      "id": "61ba7ab0e2a93a85ee485d3e",
+      "valor": 1190.5919,
+      "tipo": 1,
+      "estabelecimento": "ACCRUEX",
+      "registered": "2018-06-05T07:24:48+03:00"
+    },
+    {
+      "id": "61ba7ab0a60c083ceb6706da",
+      "valor": 2077.7946,
+      "tipo": 1,
+      "estabelecimento": "UXMOX",
+      "registered": "2014-05-15T01:30:38+03:00"
+    },
+    {
+      "id": "61ba7ab041d08985b74cce8f",
+      "valor": 2251.4333,
+      "tipo": 1,
+      "estabelecimento": "CODAX",
+      "registered": "2017-09-11T11:11:57+03:00"
+    },
+    {
+      "id": "61ba7ab0f909415402ae7501",
+      "valor": 1644.4998,
+      "tipo": 2,
+      "estabelecimento": "PEARLESSA",
+      "registered": "2019-11-15T01:56:27+03:00"
+    },
+    {
+      "id": "61ba7ab0296a7ee7a4257813",
+      "valor": 3350.0314,
+      "tipo": 1,
+      "estabelecimento": "ROCKYARD",
+      "registered": "2015-01-21T11:30:41+02:00"
+    },
+    {
+      "id": "61ba7ab09a78223c939280f8",
+      "valor": 3169.2352,
+      "tipo": 1,
+      "estabelecimento": "ZILLAR",
+      "registered": "2021-01-03T09:50:04+03:00"
+    },
+    {
+      "id": "61ba7ab0802bdfaee28dbe98",
+      "valor": 3528.4108,
+      "tipo": 1,
+      "estabelecimento": "GORGANIC",
+      "registered": "2014-02-03T03:17:54+02:00"
+    },
+    {
+      "id": "61ba7ab01391885461b6da59",
+      "valor": 3133.2769,
+      "tipo": 2,
+      "estabelecimento": "EXOSPACE",
+      "registered": "2021-09-20T12:34:57+03:00"
+    },
+    {
+      "id": "61ba7ab0df9450bde752cc69",
+      "valor": 2711.3175,
+      "tipo": 2,
+      "estabelecimento": "ISOPOP",
+      "registered": "2021-08-21T07:22:28+03:00"
+    },
+    {
+      "id": "61ba7ab03bef6b0b1a448650",
+      "valor": 2374.8657,
+      "tipo": 1,
+      "estabelecimento": "EGYPTO",
+      "registered": "2016-06-15T03:24:14+03:00"
+    },
+    {
+      "id": "61ba7ab0836f9b34ef9b38c2",
+      "valor": 3575.6203,
+      "tipo": 1,
+      "estabelecimento": "SCENTRIC",
+      "registered": "2014-10-17T04:24:58+03:00"
+    },
+    {
+      "id": "61ba7ab0eb329a95434454b9",
+      "valor": 1909.9631,
+      "tipo": 1,
+      "estabelecimento": "EYERIS",
+      "registered": "2016-09-30T05:25:31+03:00"
+    },
+    {
+      "id": "61ba7ab0a9cd0e7e7f5462df",
+      "valor": 3241.2426,
+      "tipo": 2,
+      "estabelecimento": "OPTICALL",
+      "registered": "2019-07-25T11:37:24+03:00"
+    },
+    {
+      "id": "61ba7ab021ed72d3d6cb8c00",
+      "valor": 1104.5199,
+      "tipo": 1,
+      "estabelecimento": "XUMONK",
+      "registered": "2016-12-27T03:44:05+02:00"
+    },
+    {
+      "id": "61ba7ab03ae9249186e0661b",
+      "valor": 3757.1157,
+      "tipo": 2,
+      "estabelecimento": "GYNK",
+      "registered": "2017-12-13T09:52:09+02:00"
+    },
+    {
+      "id": "61ba7ab010830e3a6f9f8cff",
+      "valor": 3718.0255,
+      "tipo": 2,
+      "estabelecimento": "WAZZU",
+      "registered": "2017-10-17T02:45:08+02:00"
+    },
+    {
+      "id": "61ba7ab0241ff478b514ba91",
+      "valor": 2984.2972,
+      "tipo": 1,
+      "estabelecimento": "INTERODEO",
+      "registered": "2014-07-31T04:10:13+03:00"
+    },
+    {
+      "id": "61ba7ab05c4578813741aa67",
+      "valor": 2068.4005,
+      "tipo": 2,
+      "estabelecimento": "DIGIAL",
+      "registered": "2015-09-18T06:17:34+03:00"
+    },
+    {
+      "id": "61ba7ab0fd95d955055b6320",
+      "valor": 3565.0105,
+      "tipo": 1,
+      "estabelecimento": "PASTURIA",
+      "registered": "2020-02-18T05:00:50+03:00"
+    },
+    {
+      "id": "61ba7ab0b122c6682df71074",
+      "valor": 1462.362,
+      "tipo": 1,
+      "estabelecimento": "GLASSTEP",
+      "registered": "2018-04-29T01:07:25+03:00"
+    },
+    {
+      "id": "61ba7ab076cffbb5c52da28c",
+      "valor": 2009.6268,
+      "tipo": 1,
+      "estabelecimento": "SYNTAC",
+      "registered": "2021-08-03T02:30:26+03:00"
+    },
+    {
+      "id": "61ba7ab070b736ba003e6752",
+      "valor": 1530.771,
+      "tipo": 2,
+      "estabelecimento": "IDETICA",
+      "registered": "2015-09-15T11:15:23+03:00"
+    },
+    {
+      "id": "61ba7ab0f7fa484709c51a50",
+      "valor": 1729.4444,
+      "tipo": 2,
+      "estabelecimento": "MACRONAUT",
+      "registered": "2015-07-26T05:33:08+03:00"
+    },
+    {
+      "id": "61ba7ab023485ed0c3a69950",
+      "valor": 1426.4753,
+      "tipo": 2,
+      "estabelecimento": "EURON",
+      "registered": "2018-07-20T12:18:44+03:00"
+    },
+    {
+      "id": "61ba7ab0cb22e7eafb9220c2",
+      "valor": 2160.7912,
+      "tipo": 1,
+      "estabelecimento": "MINGA",
+      "registered": "2017-05-10T04:52:17+03:00"
+    },
+    {
+      "id": "61ba7ab03cee6237f802c5d5",
+      "valor": 1521.7174,
+      "tipo": 2,
+      "estabelecimento": "CINCYR",
+      "registered": "2018-06-21T11:50:53+03:00"
+    },
+    {
+      "id": "61ba7ab0c3ea0a4e007cc098",
+      "valor": 1313.1318,
+      "tipo": 1,
+      "estabelecimento": "EXTREMO",
+      "registered": "2019-03-25T04:20:01+03:00"
+    },
+    {
+      "id": "61ba7ab0db10032ea2ef936a",
+      "valor": 3751.1469,
+      "tipo": 1,
+      "estabelecimento": "FISHLAND",
+      "registered": "2017-09-28T08:05:52+03:00"
+    },
+    {
+      "id": "61ba7ab08e56c73a0b335224",
+      "valor": 2887.9897,
+      "tipo": 2,
+      "estabelecimento": "INRT",
+      "registered": "2018-03-05T10:35:08+03:00"
+    },
+    {
+      "id": "61ba7ab0da7fd25e5000b8bc",
+      "valor": 2330.3206,
+      "tipo": 2,
+      "estabelecimento": "PYRAMIS",
+      "registered": "2017-01-30T03:34:20+02:00"
+    },
+    {
+      "id": "61ba7ab0166c420a4ffc4122",
+      "valor": 1294.4776,
+      "tipo": 2,
+      "estabelecimento": "UPLINX",
+      "registered": "2018-01-09T09:16:48+02:00"
+    },
+    {
+      "id": "61ba7ab0f20d0340836accc5",
+      "valor": 2279.6408,
+      "tipo": 2,
+      "estabelecimento": "SATIANCE",
+      "registered": "2016-11-13T03:59:41+02:00"
+    },
+    {
+      "id": "61ba7ab0c814719dcf5772dc",
+      "valor": 2849.3379,
+      "tipo": 1,
+      "estabelecimento": "LIMOZEN",
+      "registered": "2018-01-16T08:02:29+02:00"
+    },
+    {
+      "id": "61ba7ab0d30de97f220a8d2b",
+      "valor": 1549.3674,
+      "tipo": 2,
+      "estabelecimento": "BYTREX",
+      "registered": "2014-12-29T09:31:07+02:00"
+    },
+    {
+      "id": "61ba7ab06013291bc06bca2f",
+      "valor": 2580.48,
+      "tipo": 1,
+      "estabelecimento": "EXOTECHNO",
+      "registered": "2020-09-10T12:51:59+03:00"
+    },
+    {
+      "id": "61ba7ab0812925bd05ced1a1",
+      "valor": 1347.9381,
+      "tipo": 1,
+      "estabelecimento": "LYRIA",
+      "registered": "2018-09-30T08:14:06+03:00"
+    },
+    {
+      "id": "61ba7ab08bbd0520fcf4f3be",
+      "valor": 1275.0499,
+      "tipo": 2,
+      "estabelecimento": "NAMEBOX",
+      "registered": "2016-09-09T07:19:27+03:00"
+    },
+    {
+      "id": "61ba7ab07532cd1ea1ae19c9",
+      "valor": 1848.6438,
+      "tipo": 2,
+      "estabelecimento": "VERTON",
+      "registered": "2019-08-24T04:26:53+03:00"
+    },
+    {
+      "id": "61ba7ab076b7cac5c8b75f59",
+      "valor": 3162.4736,
+      "tipo": 1,
+      "estabelecimento": "PHUEL",
+      "registered": "2016-04-15T05:22:17+03:00"
+    },
+    {
+      "id": "61ba7ab0d90ea2bd832bd3e1",
+      "valor": 2374.0869,
+      "tipo": 2,
+      "estabelecimento": "EXIAND",
+      "registered": "2016-04-23T04:56:53+03:00"
+    },
+    {
+      "id": "61ba7ab0485fd1f0f87f35b4",
+      "valor": 3697.433,
+      "tipo": 2,
+      "estabelecimento": "ENERSAVE",
+      "registered": "2018-03-05T06:54:36+03:00"
+    },
+    {
+      "id": "61ba7ab050a60f83936dd154",
+      "valor": 3081.9244,
+      "tipo": 1,
+      "estabelecimento": "ENOMEN",
+      "registered": "2021-05-24T06:24:36+03:00"
+    },
+    {
+      "id": "61ba7ab0bb2a79947abb64dc",
+      "valor": 3019.7627,
+      "tipo": 2,
+      "estabelecimento": "ORBIFLEX",
+      "registered": "2019-09-29T07:15:00+03:00"
+    },
+    {
+      "id": "61ba7ab0493ecb12adca822e",
+      "valor": 1740.0718,
+      "tipo": 2,
+      "estabelecimento": "EWAVES",
+      "registered": "2019-09-01T07:36:17+03:00"
+    },
+    {
+      "id": "61ba7ab0d8f1f49dc3539873",
+      "valor": 1684.3715,
+      "tipo": 2,
+      "estabelecimento": "MOBILDATA",
+      "registered": "2020-02-03T05:52:35+03:00"
+    },
+    {
+      "id": "61ba7ab0537b642175e44845",
+      "valor": 3799.1054,
+      "tipo": 2,
+      "estabelecimento": "AQUACINE",
+      "registered": "2016-12-15T08:09:11+02:00"
+    },
+    {
+      "id": "61ba7ab091c7beca7a8fdf08",
+      "valor": 2509.9267,
+      "tipo": 2,
+      "estabelecimento": "OULU",
+      "registered": "2016-11-26T03:31:24+02:00"
+    },
+    {
+      "id": "61ba7ab03e1b145b36a19ab0",
+      "valor": 3263.1934,
+      "tipo": 1,
+      "estabelecimento": "BIFLEX",
+      "registered": "2015-03-26T07:38:51+03:00"
+    },
+    {
+      "id": "61ba7ab0e77d9e8861a2af21",
+      "valor": 2999.2391,
+      "tipo": 1,
+      "estabelecimento": "ADORNICA",
+      "registered": "2020-03-03T10:37:17+03:00"
+    },
+    {
+      "id": "61ba7ab0a7dac233884213b3",
+      "valor": 3089.153,
+      "tipo": 1,
+      "estabelecimento": "VALPREAL",
+      "registered": "2019-07-29T08:19:48+03:00"
+    },
+    {
+      "id": "61ba7ab00c274b8ff9e23428",
+      "valor": 1063.2199,
+      "tipo": 2,
+      "estabelecimento": "INTERFIND",
+      "registered": "2020-12-21T10:57:39+03:00"
+    },
+    {
+      "id": "61ba7ab0ca47b52ebe309a92",
+      "valor": 3381.2375,
+      "tipo": 2,
+      "estabelecimento": "AQUAFIRE",
+      "registered": "2019-12-05T03:47:31+03:00"
+    },
+    {
+      "id": "61ba7ab0da59532a813949c5",
+      "valor": 2703.3526,
+      "tipo": 1,
+      "estabelecimento": "KENGEN",
+      "registered": "2015-10-09T04:18:44+03:00"
+    },
+    {
+      "id": "61ba7ab01ce1ddc90ae034e4",
+      "valor": 3301.9764,
+      "tipo": 2,
+      "estabelecimento": "SENTIA",
+      "registered": "2018-02-16T02:32:23+02:00"
+    },
+    {
+      "id": "61ba7ab0b03b34c54e5b7e92",
+      "valor": 1287.8402,
+      "tipo": 2,
+      "estabelecimento": "VIDTO",
+      "registered": "2019-12-03T09:06:59+03:00"
+    },
+    {
+      "id": "61ba7ab010668e55e37f6796",
+      "valor": 2024.2382,
+      "tipo": 1,
+      "estabelecimento": "GINKLE",
+      "registered": "2015-02-23T02:05:13+03:00"
+    },
+    {
+      "id": "61ba7ab04bfd3d91a46e74f9",
+      "valor": 3366.593,
+      "tipo": 1,
+      "estabelecimento": "NORALEX",
+      "registered": "2017-12-04T05:54:13+02:00"
+    },
+    {
+      "id": "61ba7ab04147d13d8f48b5b5",
+      "valor": 2741.9125,
+      "tipo": 2,
+      "estabelecimento": "ZOUNDS",
+      "registered": "2017-01-11T02:17:55+02:00"
+    },
+    {
+      "id": "61ba7ab0b3cc4b4684c4d98a",
+      "valor": 1256.176,
+      "tipo": 1,
+      "estabelecimento": "ECRATIC",
+      "registered": "2021-06-25T09:24:30+03:00"
+    },
+    {
+      "id": "61ba7ab018e0a5573572ec1f",
+      "valor": 3618.1183,
+      "tipo": 2,
+      "estabelecimento": "ANDERSHUN",
+      "registered": "2018-12-29T06:15:22+02:00"
+    },
+    {
+      "id": "61ba7ab07a2ed0029a9237de",
+      "valor": 3741.7451,
+      "tipo": 1,
+      "estabelecimento": "LIMAGE",
+      "registered": "2021-04-18T05:01:17+03:00"
+    },
+    {
+      "id": "61ba7ab00741b6cda6881048",
+      "valor": 2994.9507,
+      "tipo": 1,
+      "estabelecimento": "POWERNET",
+      "registered": "2015-12-08T01:44:12+02:00"
+    },
+    {
+      "id": "61ba7ab025814b2c5d3880e3",
+      "valor": 1970.0926,
+      "tipo": 1,
+      "estabelecimento": "MARQET",
+      "registered": "2015-03-23T08:35:25+03:00"
+    },
+    {
+      "id": "61ba7ab0c987ed6feffca9fb",
+      "valor": 2618.5189,
+      "tipo": 1,
+      "estabelecimento": "BOILCAT",
+      "registered": "2020-09-15T11:13:34+03:00"
+    },
+    {
+      "id": "61ba7ab07359ca75cefc8fd2",
+      "valor": 2308.8867,
+      "tipo": 1,
+      "estabelecimento": "OLYMPIX",
+      "registered": "2020-01-13T02:10:53+03:00"
+    },
+    {
+      "id": "61ba7ab073968b36c83670d3",
+      "valor": 2060.6694,
+      "tipo": 1,
+      "estabelecimento": "GEEKOLA",
+      "registered": "2019-11-20T02:23:06+03:00"
+    },
+    {
+      "id": "61ba7ab0045470722873572b",
+      "valor": 3664.6543,
+      "tipo": 2,
+      "estabelecimento": "KOOGLE",
+      "registered": "2019-01-10T03:12:31+02:00"
+    },
+    {
+      "id": "61ba7ab011ab1b0cd7e38cfe",
+      "valor": 1715.0623,
+      "tipo": 1,
+      "estabelecimento": "GEEKOSIS",
+      "registered": "2021-05-19T02:29:35+03:00"
+    },
+    {
+      "id": "61ba7ab0192b9630a81d054e",
+      "valor": 1862.5812,
+      "tipo": 2,
+      "estabelecimento": "VIRVA",
+      "registered": "2017-01-05T02:36:15+02:00"
+    },
+    {
+      "id": "61ba7ab0af703a94b7671dc2",
+      "valor": 2273.7294,
+      "tipo": 2,
+      "estabelecimento": "AUTOGRATE",
+      "registered": "2016-04-08T02:42:09+03:00"
+    },
+    {
+      "id": "61ba7ab061ae4ce21bd5dd99",
+      "valor": 1596.3624,
+      "tipo": 2,
+      "estabelecimento": "BUZZWORKS",
+      "registered": "2017-12-30T07:32:02+02:00"
+    },
+    {
+      "id": "61ba7ab075489b3d6dd895bb",
+      "valor": 2377.1711,
+      "tipo": 2,
+      "estabelecimento": "SINGAVERA",
+      "registered": "2015-07-12T02:13:55+03:00"
+    },
+    {
+      "id": "61ba7ab0137d080bf8532778",
+      "valor": 3831.9378,
+      "tipo": 2,
+      "estabelecimento": "QABOOS",
+      "registered": "2021-01-30T01:16:40+03:00"
+    },
+    {
+      "id": "61ba7ab096266f7b4b7d00e6",
+      "valor": 1051.7882,
+      "tipo": 1,
+      "estabelecimento": "DIGIGEN",
+      "registered": "2014-03-05T04:11:32+03:00"
+    },
+    {
+      "id": "61ba7ab0a0bbc2212f239346",
+      "valor": 1404.7042,
+      "tipo": 1,
+      "estabelecimento": "MIRACULA",
+      "registered": "2018-02-18T12:46:19+03:00"
+    },
+    {
+      "id": "61ba7ab079cdef50fb257139",
+      "valor": 2704.0919,
+      "tipo": 1,
+      "estabelecimento": "AQUOAVO",
+      "registered": "2015-01-21T02:49:06+02:00"
+    },
+    {
+      "id": "61ba7ab0f76b5f0602d8e172",
+      "valor": 2683.5489,
+      "tipo": 1,
+      "estabelecimento": "FREAKIN",
+      "registered": "2018-09-10T04:43:43+03:00"
+    },
+    {
+      "id": "61ba7ab06f1bdb9dea6aee58",
+      "valor": 2027.4751,
+      "tipo": 2,
+      "estabelecimento": "SLAMBDA",
+      "registered": "2019-04-14T08:37:23+03:00"
+    },
+    {
+      "id": "61ba7ab0aa4076b6541c7d13",
+      "valor": 3496.4181,
+      "tipo": 2,
+      "estabelecimento": "POLARIUM",
+      "registered": "2016-12-15T01:32:58+02:00"
+    },
+    {
+      "id": "61ba7ab0e8eaf347084cbcf9",
+      "valor": 3435.0137,
+      "tipo": 2,
+      "estabelecimento": "ZYTRAC",
+      "registered": "2019-06-10T11:36:24+03:00"
+    },
+    {
+      "id": "61ba7ab073f9940a94fb9e6f",
+      "valor": 2498.2869,
+      "tipo": 2,
+      "estabelecimento": "GENEKOM",
+      "registered": "2018-01-14T02:30:05+02:00"
+    },
+    {
+      "id": "61ba7ab0e9696f40d1faaaf4",
+      "valor": 1015.9515,
+      "tipo": 1,
+      "estabelecimento": "ZIDOX",
+      "registered": "2021-08-29T06:59:28+03:00"
+    },
+    {
+      "id": "61ba7ab0c773454714585864",
+      "valor": 1748.8527,
+      "tipo": 2,
+      "estabelecimento": "ASSURITY",
+      "registered": "2016-07-20T03:20:44+03:00"
+    },
+    {
+      "id": "61ba7ab069b1bcd13115841d",
+      "valor": 3621.731,
+      "tipo": 1,
+      "estabelecimento": "GENESYNK",
+      "registered": "2017-01-05T07:34:37+02:00"
+    },
+    {
+      "id": "61ba7ab07c8e53a8e904cc89",
+      "valor": 3348.6377,
+      "tipo": 1,
+      "estabelecimento": "NIPAZ",
+      "registered": "2020-08-05T01:02:01+03:00"
+    },
+    {
+      "id": "61ba7ab0609c9e36c00b1955",
+      "valor": 2930.0195,
+      "tipo": 1,
+      "estabelecimento": "APEXIA",
+      "registered": "2014-06-22T07:58:33+03:00"
+    },
+    {
+      "id": "61ba7ab0ac819563f8bfc6ba",
+      "valor": 2538.1083,
+      "tipo": 2,
+      "estabelecimento": "MIXERS",
+      "registered": "2014-02-21T01:43:00+03:00"
+    },
+    {
+      "id": "61ba7ab042ed18de6d5c2897",
+      "valor": 2997.1826,
+      "tipo": 1,
+      "estabelecimento": "IDEGO",
+      "registered": "2017-02-16T02:08:26+02:00"
+    },
+    {
+      "id": "61ba7ab0520469977b7a5477",
+      "valor": 3846.4268,
+      "tipo": 1,
+      "estabelecimento": "ZOID",
+      "registered": "2015-03-01T03:50:05+03:00"
+    },
+    {
+      "id": "61ba7ab08f4ce11b5399ac88",
+      "valor": 1015.1055,
+      "tipo": 1,
+      "estabelecimento": "ANIXANG",
+      "registered": "2016-05-06T09:30:17+03:00"
+    },
+    {
+      "id": "61ba7ab008f6714d470fa4e5",
+      "valor": 3044.8776,
+      "tipo": 2,
+      "estabelecimento": "NITRACYR",
+      "registered": "2021-05-04T04:36:11+03:00"
+    },
+    {
+      "id": "61ba7ab0dad2a2c0a6b70593",
+      "valor": 3799.1084,
+      "tipo": 2,
+      "estabelecimento": "UNIWORLD",
+      "registered": "2021-04-18T11:40:41+03:00"
+    },
+    {
+      "id": "61ba7ab0b319422159011c8c",
+      "valor": 2212.9905,
+      "tipo": 1,
+      "estabelecimento": "TERSANKI",
+      "registered": "2016-03-21T05:35:37+03:00"
+    },
+    {
+      "id": "61ba7ab0ee704647c0868665",
+      "valor": 2065.463,
+      "tipo": 1,
+      "estabelecimento": "MEMORA",
+      "registered": "2016-01-02T04:43:13+02:00"
+    },
+    {
+      "id": "61ba7ab010244c1904638359",
+      "valor": 1398.5093,
+      "tipo": 2,
+      "estabelecimento": "ZENSOR",
+      "registered": "2021-07-16T03:47:09+03:00"
+    },
+    {
+      "id": "61ba7ab0876faf64ffe197f6",
+      "valor": 3299.4794,
+      "tipo": 2,
+      "estabelecimento": "STELAECOR",
+      "registered": "2015-01-26T01:21:40+02:00"
+    },
+    {
+      "id": "61ba7ab08063d7d22a8c75ae",
+      "valor": 3899.8286,
+      "tipo": 2,
+      "estabelecimento": "PAPRIKUT",
+      "registered": "2021-07-11T03:11:44+03:00"
+    },
+    {
+      "id": "61ba7ab089b4b0bece028bbb",
+      "valor": 2913.1534,
+      "tipo": 2,
+      "estabelecimento": "VIASIA",
+      "registered": "2020-01-18T05:39:02+03:00"
+    },
+    {
+      "id": "61ba7ab08b91327cf51fb22d",
+      "valor": 3692.8192,
+      "tipo": 1,
+      "estabelecimento": "IZZBY",
+      "registered": "2020-02-04T02:31:37+03:00"
+    },
+    {
+      "id": "61ba7ab063b9ac2f97a527d4",
+      "valor": 3459.8351,
+      "tipo": 2,
+      "estabelecimento": "SQUISH",
+      "registered": "2019-02-12T07:34:03+02:00"
+    },
+    {
+      "id": "61ba7ab031e0bd33884229d1",
+      "valor": 2037.5194,
+      "tipo": 1,
+      "estabelecimento": "COMVEYER",
+      "registered": "2016-12-03T03:49:19+02:00"
+    },
+    {
+      "id": "61ba7ab0391a9e63a5edaf2d",
+      "valor": 3274.0213,
+      "tipo": 2,
+      "estabelecimento": "SPORTAN",
+      "registered": "2015-07-09T03:13:01+03:00"
+    },
+    {
+      "id": "61ba7ab02b3981943397a657",
+      "valor": 3170.9462,
+      "tipo": 2,
+      "estabelecimento": "APEX",
+      "registered": "2019-03-01T02:59:33+03:00"
+    },
+    {
+      "id": "61ba7ab0e673061326e28f50",
+      "valor": 2763.753,
+      "tipo": 2,
+      "estabelecimento": "MITROC",
+      "registered": "2016-09-12T04:59:00+03:00"
+    },
+    {
+      "id": "61ba7ab0ce090e16a34bd87b",
+      "valor": 3569.3013,
+      "tipo": 2,
+      "estabelecimento": "GLEAMINK",
+      "registered": "2014-04-09T12:15:11+03:00"
+    },
+    {
+      "id": "61ba7ab042855254b9fe7e32",
+      "valor": 3630.3094,
+      "tipo": 1,
+      "estabelecimento": "SNORUS",
+      "registered": "2015-04-22T11:45:28+03:00"
+    },
+    {
+      "id": "61ba7ab02dd96f755fdc3dce",
+      "valor": 2234.2111,
+      "tipo": 1,
+      "estabelecimento": "ZUVY",
+      "registered": "2017-11-18T12:00:06+02:00"
+    },
+    {
+      "id": "61ba7ab05edbf0e3138fe541",
+      "valor": 1017.0003,
+      "tipo": 2,
+      "estabelecimento": "EPLOSION",
+      "registered": "2014-10-07T04:07:41+03:00"
+    },
+    {
+      "id": "61ba7ab0824c2a585f34f09e",
+      "valor": 2491.9988,
+      "tipo": 2,
+      "estabelecimento": "COMBOT",
+      "registered": "2021-10-29T02:25:55+03:00"
+    },
+    {
+      "id": "61ba7ab036912a4c81a5ccba",
+      "valor": 1298.2201,
+      "tipo": 2,
+      "estabelecimento": "ENQUILITY",
+      "registered": "2016-03-05T04:50:35+03:00"
+    },
+    {
+      "id": "61ba7ab00320c55b62bd4067",
+      "valor": 3305.4309,
+      "tipo": 2,
+      "estabelecimento": "DADABASE",
+      "registered": "2015-09-16T05:45:51+03:00"
+    },
+    {
+      "id": "61ba7ab00c829eab33b681f9",
+      "valor": 2480.0823,
+      "tipo": 2,
+      "estabelecimento": "SNIPS",
+      "registered": "2014-03-08T02:31:54+03:00"
+    },
+    {
+      "id": "61ba7ab0adae4ab4925181cd",
+      "valor": 3851.3255,
+      "tipo": 2,
+      "estabelecimento": "RUGSTARS",
+      "registered": "2019-08-19T11:29:21+03:00"
+    },
+    {
+      "id": "61ba7ab04b0c874c003c47c4",
+      "valor": 3405.7049,
+      "tipo": 1,
+      "estabelecimento": "REMOTION",
+      "registered": "2016-09-01T01:29:28+03:00"
+    },
+    {
+      "id": "61ba7ab0749b2e7cd4f3b80d",
+      "valor": 2431.4988,
+      "tipo": 1,
+      "estabelecimento": "ZOSIS",
+      "registered": "2017-06-13T11:52:38+03:00"
+    },
+    {
+      "id": "61ba7ab021bf42c2d67ad619",
+      "valor": 3375.7103,
+      "tipo": 1,
+      "estabelecimento": "INCUBUS",
+      "registered": "2014-07-16T04:38:32+03:00"
+    },
+    {
+      "id": "61ba7ab0aa7050bf50203101",
+      "valor": 3447.4163,
+      "tipo": 2,
+      "estabelecimento": "ZIZZLE",
+      "registered": "2014-04-26T03:16:56+03:00"
+    },
+    {
+      "id": "61ba7ab0d2b4bc6a515069b9",
+      "valor": 3818.9441,
+      "tipo": 2,
+      "estabelecimento": "LOCAZONE",
+      "registered": "2018-03-19T06:22:35+03:00"
+    },
+    {
+      "id": "61ba7ab048e4f4284de3f23a",
+      "valor": 2850.0616,
+      "tipo": 2,
+      "estabelecimento": "EVENTEX",
+      "registered": "2020-11-29T12:34:07+03:00"
+    },
+    {
+      "id": "61ba7ab0e18523e8efec0866",
+      "valor": 3379.2574,
+      "tipo": 1,
+      "estabelecimento": "ZILLA",
+      "registered": "2020-05-19T08:37:55+03:00"
+    },
+    {
+      "id": "61ba7ab0610d314bac5add6d",
+      "valor": 1100.1321,
+      "tipo": 2,
+      "estabelecimento": "MAXIMIND",
+      "registered": "2021-12-10T07:27:00+03:00"
+    },
+    {
+      "id": "61ba7ab014b5eca829a94698",
+      "valor": 1734.7622,
+      "tipo": 1,
+      "estabelecimento": "EYEWAX",
+      "registered": "2020-01-08T03:34:28+03:00"
+    },
+    {
+      "id": "61ba7ab01ab0ef4779aedf61",
+      "valor": 3761.9563,
+      "tipo": 2,
+      "estabelecimento": "ESCHOIR",
+      "registered": "2020-03-30T02:54:28+03:00"
+    },
+    {
+      "id": "61ba7ab0c0c418dd42d2c7fe",
+      "valor": 2179.709,
+      "tipo": 1,
+      "estabelecimento": "GOLISTIC",
+      "registered": "2014-07-29T10:51:17+03:00"
+    },
+    {
+      "id": "61ba7ab0113918dc5ade8dd8",
+      "valor": 3918.0745,
+      "tipo": 2,
+      "estabelecimento": "COSMOSIS",
+      "registered": "2019-02-14T07:31:51+02:00"
+    },
+    {
+      "id": "61ba7ab0714d54e8a63c54b6",
+      "valor": 1197.3479,
+      "tipo": 1,
+      "estabelecimento": "ENDIPINE",
+      "registered": "2015-07-15T01:17:42+03:00"
+    },
+    {
+      "id": "61ba7ab067dcc69dc278a723",
+      "valor": 3224.1363,
+      "tipo": 1,
+      "estabelecimento": "QUILCH",
+      "registered": "2017-11-15T07:34:42+02:00"
+    },
+    {
+      "id": "61ba7ab03a281852cdf7309a",
+      "valor": 3961.6047,
+      "tipo": 1,
+      "estabelecimento": "ISBOL",
+      "registered": "2014-09-30T12:56:17+03:00"
+    },
+    {
+      "id": "61ba7ab029aae4a1974d6370",
+      "valor": 1004.4783,
+      "tipo": 2,
+      "estabelecimento": "HOPELI",
+      "registered": "2017-08-24T09:52:49+03:00"
+    },
+    {
+      "id": "61ba7ab0974c4180610ad50f",
+      "valor": 2141.2998,
+      "tipo": 2,
+      "estabelecimento": "SPRINGBEE",
+      "registered": "2019-06-20T12:32:30+03:00"
+    },
+    {
+      "id": "61ba7ab002dab54adf60b168",
+      "valor": 1244.617,
+      "tipo": 1,
+      "estabelecimento": "QUINEX",
+      "registered": "2018-12-04T07:25:36+02:00"
+    },
+    {
+      "id": "61ba7ab01b1bde5f08817c20",
+      "valor": 2650.8001,
+      "tipo": 2,
+      "estabelecimento": "GALLAXIA",
+      "registered": "2017-04-24T03:46:40+03:00"
+    },
+    {
+      "id": "61ba7ab00c24d7ee7ae35664",
+      "valor": 3269.7468,
+      "tipo": 1,
+      "estabelecimento": "SUPPORTAL",
+      "registered": "2016-09-27T09:01:01+03:00"
+    },
+    {
+      "id": "61ba7ab02aa65fd150783bc6",
+      "valor": 1340.202,
+      "tipo": 1,
+      "estabelecimento": "ZAJ",
+      "registered": "2020-08-24T03:37:40+03:00"
+    },
+    {
+      "id": "61ba7ab090eb095b255b81e0",
+      "valor": 3990.0459,
+      "tipo": 1,
+      "estabelecimento": "DIGIQUE",
+      "registered": "2016-01-27T06:14:49+02:00"
+    },
+    {
+      "id": "61ba7ab0873ec5090e6109f4",
+      "valor": 2926.8972,
+      "tipo": 2,
+      "estabelecimento": "VERTIDE",
+      "registered": "2017-02-18T03:14:39+02:00"
+    },
+    {
+      "id": "61ba7ab0f06a9a966b1952e0",
+      "valor": 3989.2816,
+      "tipo": 1,
+      "estabelecimento": "ISOTRONIC",
+      "registered": "2018-05-10T01:40:58+03:00"
+    },
+    {
+      "id": "61ba7ab0f7937768d9a44134",
+      "valor": 1953.3844,
+      "tipo": 1,
+      "estabelecimento": "CHILLIUM",
+      "registered": "2019-07-14T12:37:36+03:00"
+    },
+    {
+      "id": "61ba7ab05e2d401f3c7e1e62",
+      "valor": 1995.2498,
+      "tipo": 2,
+      "estabelecimento": "HATOLOGY",
+      "registered": "2015-02-28T04:15:31+03:00"
+    },
+    {
+      "id": "61ba7ab05b07b18a206218e3",
+      "valor": 2161.9647,
+      "tipo": 2,
+      "estabelecimento": "COMVERGES",
+      "registered": "2021-03-10T06:25:01+03:00"
+    },
+    {
+      "id": "61ba7ab0b2ffbb5041ebe4f5",
+      "valor": 2508.4901,
+      "tipo": 1,
+      "estabelecimento": "FURNIGEER",
+      "registered": "2014-10-02T05:40:26+03:00"
+    },
+    {
+      "id": "61ba7ab0bf02c2e592971697",
+      "valor": 2179.9676,
+      "tipo": 2,
+      "estabelecimento": "XEREX",
+      "registered": "2016-01-30T08:25:28+02:00"
+    },
+    {
+      "id": "61ba7ab067ba3c323a9252e6",
+      "valor": 1117.7641,
+      "tipo": 2,
+      "estabelecimento": "PYRAMI",
+      "registered": "2020-02-02T06:12:32+03:00"
+    },
+    {
+      "id": "61ba7ab0f33212c9bb68e375",
+      "valor": 1097.3549,
+      "tipo": 1,
+      "estabelecimento": "ORBOID",
+      "registered": "2019-09-14T06:41:49+03:00"
+    },
+    {
+      "id": "61ba7ab031304bd5c073ab45",
+      "valor": 1541.5871,
+      "tipo": 1,
+      "estabelecimento": "MANTRIX",
+      "registered": "2015-03-18T11:40:02+03:00"
+    },
+    {
+      "id": "61ba7ab06705b2281e44871d",
+      "valor": 1709.818,
+      "tipo": 1,
+      "estabelecimento": "DARWINIUM",
+      "registered": "2021-02-21T06:51:53+03:00"
+    },
+    {
+      "id": "61ba7ab0d8102ed9ab93b1db",
+      "valor": 1897.2948,
+      "tipo": 1,
+      "estabelecimento": "GRUPOLI",
+      "registered": "2017-10-11T12:42:35+03:00"
+    },
+    {
+      "id": "61ba7ab056d41da3d6c98a46",
+      "valor": 1039.6917,
+      "tipo": 1,
+      "estabelecimento": "MARVANE",
+      "registered": "2020-08-26T03:51:19+03:00"
+    },
+    {
+      "id": "61ba7ab0286ee90fd6225971",
+      "valor": 3694.8771,
+      "tipo": 2,
+      "estabelecimento": "KIDSTOCK",
+      "registered": "2019-12-20T08:03:39+03:00"
+    },
+    {
+      "id": "61ba7ab09f6d2855ce78bcbe",
+      "valor": 2091.6415,
+      "tipo": 2,
+      "estabelecimento": "KATAKANA",
+      "registered": "2016-12-16T02:30:26+02:00"
+    },
+    {
+      "id": "61ba7ab0444f3c44b547a1ae",
+      "valor": 1023.5599,
+      "tipo": 1,
+      "estabelecimento": "SAVVY",
+      "registered": "2016-05-23T05:52:28+03:00"
+    },
+    {
+      "id": "61ba7ab04963b3670697c764",
+      "valor": 2411.7747,
+      "tipo": 1,
+      "estabelecimento": "HELIXO",
+      "registered": "2015-06-10T01:58:31+03:00"
+    },
+    {
+      "id": "61ba7ab0b139f69542dedcff",
+      "valor": 2142.6737,
+      "tipo": 1,
+      "estabelecimento": "CUIZINE",
+      "registered": "2021-05-17T10:00:55+03:00"
+    },
+    {
+      "id": "61ba7ab0f854863837aabfa6",
+      "valor": 2433.46,
+      "tipo": 2,
+      "estabelecimento": "ACRUEX",
+      "registered": "2019-08-23T04:00:14+03:00"
+    },
+    {
+      "id": "61ba7ab0e1d75b824657b484",
+      "valor": 1186.6369,
+      "tipo": 1,
+      "estabelecimento": "NIXELT",
+      "registered": "2015-02-10T06:04:49+02:00"
+    },
+    {
+      "id": "61ba7ab026f64f56a06b68dd",
+      "valor": 2681.7899,
+      "tipo": 1,
+      "estabelecimento": "KIGGLE",
+      "registered": "2019-06-29T10:21:51+03:00"
+    },
+    {
+      "id": "61ba7ab085106c8a2b3ab3ac",
+      "valor": 3860.5597,
+      "tipo": 2,
+      "estabelecimento": "VIAGRAND",
+      "registered": "2015-04-11T02:25:48+03:00"
+    },
+    {
+      "id": "61ba7ab0626aedc8f3ad26f5",
+      "valor": 3152.5136,
+      "tipo": 1,
+      "estabelecimento": "TROPOLIS",
+      "registered": "2014-06-08T09:08:47+03:00"
+    },
+    {
+      "id": "61ba7ab00595e035b9c0b5dc",
+      "valor": 3770.1816,
+      "tipo": 1,
+      "estabelecimento": "ZILIDIUM",
+      "registered": "2017-01-21T05:43:35+02:00"
+    },
+    {
+      "id": "61ba7ab0ef6d96fb19ef0de4",
+      "valor": 3588.5118,
+      "tipo": 1,
+      "estabelecimento": "BITTOR",
+      "registered": "2017-01-03T12:49:35+02:00"
+    },
+    {
+      "id": "61ba7ab0d490e83248bc1412",
+      "valor": 1990.3262,
+      "tipo": 2,
+      "estabelecimento": "EARGO",
+      "registered": "2020-02-20T07:05:38+03:00"
+    },
+    {
+      "id": "61ba7ab033bf1a492b103f5b",
+      "valor": 2858.1402,
+      "tipo": 2,
+      "estabelecimento": "COMTRACT",
+      "registered": "2017-11-13T08:00:41+02:00"
+    },
+    {
+      "id": "61ba7ab0b16f60d60ae4f93f",
+      "valor": 3524.8335,
+      "tipo": 1,
+      "estabelecimento": "ANDRYX",
+      "registered": "2019-01-24T04:29:26+02:00"
+    },
+    {
+      "id": "61ba7ab013af7b5321e6cf5c",
+      "valor": 1802.6646,
+      "tipo": 1,
+      "estabelecimento": "GLUKGLUK",
+      "registered": "2015-01-18T03:51:02+02:00"
+    },
+    {
+      "id": "61ba7ab0cba91d2d7def0c62",
+      "valor": 2535.3972,
+      "tipo": 2,
+      "estabelecimento": "VERBUS",
+      "registered": "2020-12-20T06:45:08+03:00"
+    },
+    {
+      "id": "61ba7ab0502c96f9a7e68db1",
+      "valor": 2941.2556,
+      "tipo": 2,
+      "estabelecimento": "PIGZART",
+      "registered": "2018-12-29T09:00:10+02:00"
+    },
+    {
+      "id": "61ba7ab0c4ec9995a4ef757e",
+      "valor": 2244.0407,
+      "tipo": 1,
+      "estabelecimento": "MAXEMIA",
+      "registered": "2016-08-22T03:49:26+03:00"
+    },
+    {
+      "id": "61ba7ab02fb9dd1849d3e3cb",
+      "valor": 2527.5967,
+      "tipo": 1,
+      "estabelecimento": "NIMON",
+      "registered": "2016-02-15T01:01:37+02:00"
+    },
+    {
+      "id": "61ba7ab0be2c15625f631a58",
+      "valor": 3750.638,
+      "tipo": 2,
+      "estabelecimento": "RODEOCEAN",
+      "registered": "2021-08-19T08:55:18+03:00"
+    },
+    {
+      "id": "61ba7ab0b186694ce7ea7758",
+      "valor": 3720.3412,
+      "tipo": 1,
+      "estabelecimento": "KYAGORO",
+      "registered": "2018-07-07T02:13:27+03:00"
+    },
+    {
+      "id": "61ba7ab0093030b5bc958fc3",
+      "valor": 1101.2748,
+      "tipo": 1,
+      "estabelecimento": "TELEQUIET",
+      "registered": "2019-06-03T06:26:15+03:00"
+    },
+    {
+      "id": "61ba7ab071749ddcee7a06e7",
+      "valor": 1671.5563,
+      "tipo": 1,
+      "estabelecimento": "PATHWAYS",
+      "registered": "2021-05-05T08:52:16+03:00"
+    },
+    {
+      "id": "61ba7ab0530444d996209662",
+      "valor": 1378.0242,
+      "tipo": 2,
+      "estabelecimento": "ENDICIL",
+      "registered": "2021-11-26T11:04:57+03:00"
+    },
+    {
+      "id": "61ba7ab027d51358beeb91c0",
+      "valor": 2102.0398,
+      "tipo": 1,
+      "estabelecimento": "ONTALITY",
+      "registered": "2019-10-17T04:58:44+03:00"
+    },
+    {
+      "id": "61ba7ab0257fe74971d07bf0",
+      "valor": 2626.1123,
+      "tipo": 2,
+      "estabelecimento": "EARWAX",
+      "registered": "2015-11-12T04:30:53+02:00"
+    },
+    {
+      "id": "61ba7ab043cc11c4f4279f6c",
+      "valor": 1905.5438,
+      "tipo": 1,
+      "estabelecimento": "MARTGO",
+      "registered": "2015-06-28T07:27:34+03:00"
+    },
+    {
+      "id": "61ba7ab0bcfc9fdcb749fa7e",
+      "valor": 2108.5397,
+      "tipo": 2,
+      "estabelecimento": "PHOTOBIN",
+      "registered": "2019-02-24T09:57:18+03:00"
+    },
+    {
+      "id": "61ba7ab030fd17a0ce8155d6",
+      "valor": 1283.0916,
+      "tipo": 2,
+      "estabelecimento": "BESTO",
+      "registered": "2019-12-02T01:55:28+03:00"
+    },
+    {
+      "id": "61ba7ab0c1e108e53f83618b",
+      "valor": 1292.4166,
+      "tipo": 1,
+      "estabelecimento": "ENVIRE",
+      "registered": "2014-12-20T06:19:09+02:00"
+    },
+    {
+      "id": "61ba7ab00527f48b59427c7c",
+      "valor": 1386.3699,
+      "tipo": 1,
+      "estabelecimento": "NETUR",
+      "registered": "2021-05-14T09:43:46+03:00"
+    },
+    {
+      "id": "61ba7ab073156967bc01fdd2",
+      "valor": 1006.3228,
+      "tipo": 1,
+      "estabelecimento": "SENMEI",
+      "registered": "2020-07-07T09:35:31+03:00"
+    },
+    {
+      "id": "61ba7ab0f7e55be2b2f80c49",
+      "valor": 2653.5824,
+      "tipo": 2,
+      "estabelecimento": "OVOLO",
+      "registered": "2017-04-22T04:33:22+03:00"
+    },
+    {
+      "id": "61ba7ab00add90ff5930d6e6",
+      "valor": 2691.0996,
+      "tipo": 1,
+      "estabelecimento": "ACUMENTOR",
+      "registered": "2014-11-22T07:43:23+02:00"
+    },
+    {
+      "id": "61ba7ab03bc1922c2dadb2a3",
+      "valor": 1447.9399,
+      "tipo": 2,
+      "estabelecimento": "OPTICON",
+      "registered": "2015-09-05T07:05:14+03:00"
+    },
+    {
+      "id": "61ba7ab09f3989e4e6b85b77",
+      "valor": 1630.1507,
+      "tipo": 2,
+      "estabelecimento": "ENERSOL",
+      "registered": "2018-04-17T07:27:00+03:00"
+    },
+    {
+      "id": "61ba7ab0fbe4ceeb85c03881",
+      "valor": 2781.6935,
+      "tipo": 2,
+      "estabelecimento": "GEEKNET",
+      "registered": "2015-07-31T09:05:04+03:00"
+    },
+    {
+      "id": "61ba7ab05f052439aa26faf2",
+      "valor": 1794.3096,
+      "tipo": 2,
+      "estabelecimento": "APEXTRI",
+      "registered": "2015-04-25T03:07:07+03:00"
+    },
+    {
+      "id": "61ba7ab0e0d88bebc5e6d469",
+      "valor": 3299.3091,
+      "tipo": 2,
+      "estabelecimento": "CORIANDER",
+      "registered": "2015-06-03T12:32:54+03:00"
+    },
+    {
+      "id": "61ba7ab01091ee22426c9491",
+      "valor": 2218.647,
+      "tipo": 1,
+      "estabelecimento": "COMTEST",
+      "registered": "2020-11-28T09:56:21+03:00"
+    },
+    {
+      "id": "61ba7ab0468a42afc4033b75",
+      "valor": 1465.0782,
+      "tipo": 1,
+      "estabelecimento": "FLEXIGEN",
+      "registered": "2016-04-26T03:10:06+03:00"
+    },
+    {
+      "id": "61ba7ab0a7ffec7002096b84",
+      "valor": 2202.8462,
+      "tipo": 2,
+      "estabelecimento": "NORSUP",
+      "registered": "2021-06-24T06:58:57+03:00"
+    },
+    {
+      "id": "61ba7ab0a213895665d97386",
+      "valor": 2097.1929,
+      "tipo": 2,
+      "estabelecimento": "MONDICIL",
+      "registered": "2015-10-11T12:00:50+03:00"
+    },
+    {
+      "id": "61ba7ab07fadcdcbb99eb07c",
+      "valor": 3140.9321,
+      "tipo": 2,
+      "estabelecimento": "GOKO",
+      "registered": "2014-09-08T08:18:30+03:00"
+    },
+    {
+      "id": "61ba7ab0a1a3beeceef2ea15",
+      "valor": 2385.135,
+      "tipo": 1,
+      "estabelecimento": "XYMONK",
+      "registered": "2018-04-21T02:51:34+03:00"
+    },
+    {
+      "id": "61ba7ab01f94664595461a96",
+      "valor": 1861.0194,
+      "tipo": 1,
+      "estabelecimento": "PANZENT",
+      "registered": "2016-09-25T12:04:40+03:00"
+    },
+    {
+      "id": "61ba7ab07154274a6f7421b0",
+      "valor": 1805.129,
+      "tipo": 2,
+      "estabelecimento": "NEXGENE",
+      "registered": "2015-10-26T05:07:38+02:00"
+    },
+    {
+      "id": "61ba7ab0ffcf8334683a8640",
+      "valor": 1359.6489,
+      "tipo": 1,
+      "estabelecimento": "STEELFAB",
+      "registered": "2019-10-01T05:22:53+03:00"
+    },
+    {
+      "id": "61ba7ab0769c23625e24dd0a",
+      "valor": 1079.7503,
+      "tipo": 1,
+      "estabelecimento": "GINK",
+      "registered": "2020-09-21T03:32:55+03:00"
+    },
+    {
+      "id": "61ba7ab0fd30005fcacf5df1",
+      "valor": 3693.8606,
+      "tipo": 2,
+      "estabelecimento": "ACIUM",
+      "registered": "2017-02-16T05:14:31+02:00"
+    },
+    {
+      "id": "61ba7ab0fbf158679a31e7a6",
+      "valor": 2352.6651,
+      "tipo": 2,
+      "estabelecimento": "MOLTONIC",
+      "registered": "2020-06-06T04:33:17+03:00"
+    },
+    {
+      "id": "61ba7ab04933c9dd4dca31d9",
+      "valor": 2096.6555,
+      "tipo": 2,
+      "estabelecimento": "UNEEQ",
+      "registered": "2020-09-09T01:00:21+03:00"
+    },
+    {
+      "id": "61ba7ab0ed0293b3ae3336f0",
+      "valor": 1564.9046,
+      "tipo": 2,
+      "estabelecimento": "ZENTRY",
+      "registered": "2014-10-15T08:00:41+03:00"
+    },
+    {
+      "id": "61ba7ab0df378da0905977ee",
+      "valor": 2246.756,
+      "tipo": 1,
+      "estabelecimento": "POLARAX",
+      "registered": "2021-04-08T06:26:28+03:00"
+    },
+    {
+      "id": "61ba7ab05cef664d088a572e",
+      "valor": 2124.1444,
+      "tipo": 2,
+      "estabelecimento": "COMTRAIL",
+      "registered": "2020-10-17T04:04:44+03:00"
+    },
+    {
+      "id": "61ba7ab0341ba781674096ad",
+      "valor": 2145.932,
+      "tipo": 1,
+      "estabelecimento": "POSHOME",
+      "registered": "2014-12-04T10:54:21+02:00"
+    },
+    {
+      "id": "61ba7ab0a544743cc4b22971",
+      "valor": 3958.7604,
+      "tipo": 2,
+      "estabelecimento": "ORBIXTAR",
+      "registered": "2016-11-07T03:14:38+02:00"
+    },
+    {
+      "id": "61ba7ab00a1ec614619b9d5b",
+      "valor": 2708.3853,
+      "tipo": 1,
+      "estabelecimento": "GENMY",
+      "registered": "2020-06-29T07:02:48+03:00"
+    },
+    {
+      "id": "61ba7ab0113ef48f713251d6",
+      "valor": 3781.1455,
+      "tipo": 2,
+      "estabelecimento": "VETRON",
+      "registered": "2020-08-11T03:14:51+03:00"
+    },
+    {
+      "id": "61ba7ab02ef6f54ee4b47761",
+      "valor": 3027.8694,
+      "tipo": 1,
+      "estabelecimento": "COMSTAR",
+      "registered": "2017-01-19T01:31:44+02:00"
+    },
+    {
+      "id": "61ba7ab073ca019353ac6d2c",
+      "valor": 2204.8989,
+      "tipo": 1,
+      "estabelecimento": "FANGOLD",
+      "registered": "2016-02-06T04:08:10+02:00"
+    },
+    {
+      "id": "61ba7ab027ad05190cba3838",
+      "valor": 3971.7844,
+      "tipo": 2,
+      "estabelecimento": "ECOLIGHT",
+      "registered": "2018-09-22T02:39:55+03:00"
+    },
+    {
+      "id": "61ba7ab0e33b44f0bdd6106b",
+      "valor": 3426.2512,
+      "tipo": 1,
+      "estabelecimento": "KNOWLYSIS",
+      "registered": "2015-08-24T07:36:02+03:00"
+    },
+    {
+      "id": "61ba7ab06d03d3c432291d2f",
+      "valor": 3747.3378,
+      "tipo": 1,
+      "estabelecimento": "VIXO",
+      "registered": "2014-03-16T07:12:39+03:00"
+    },
+    {
+      "id": "61ba7ab034c2e9eb1cd3283c",
+      "valor": 2978.4987,
+      "tipo": 1,
+      "estabelecimento": "DATAGEN",
+      "registered": "2015-06-02T02:56:20+03:00"
+    },
+    {
+      "id": "61ba7ab0d3b5334f323b4e4b",
+      "valor": 2772.8777,
+      "tipo": 2,
+      "estabelecimento": "CALCU",
+      "registered": "2020-04-02T08:08:28+03:00"
+    },
+    {
+      "id": "61ba7ab007b366ba76529eb5",
+      "valor": 2761.3003,
+      "tipo": 2,
+      "estabelecimento": "ZILCH",
+      "registered": "2015-05-30T11:37:29+03:00"
+    },
+    {
+      "id": "61ba7ab0b1e7ac2c2a4c5166",
+      "valor": 3785.3507,
+      "tipo": 1,
+      "estabelecimento": "KINETICA",
+      "registered": "2019-12-01T12:38:54+03:00"
+    },
+    {
+      "id": "61ba7ab032615b0750d8c3bf",
+      "valor": 3491.511,
+      "tipo": 1,
+      "estabelecimento": "MANGLO",
+      "registered": "2015-01-20T02:05:42+02:00"
+    },
+    {
+      "id": "61ba7ab07a16155fb3151096",
+      "valor": 1063.8837,
+      "tipo": 1,
+      "estabelecimento": "CABLAM",
+      "registered": "2020-01-17T01:05:32+03:00"
+    },
+    {
+      "id": "61ba7ab0922fcb5443f76891",
+      "valor": 1519.8048,
+      "tipo": 2,
+      "estabelecimento": "ZILLADYNE",
+      "registered": "2020-11-08T04:30:02+03:00"
+    },
+    {
+      "id": "61ba7ab043989e5c033f84bb",
+      "valor": 1323.9729,
+      "tipo": 1,
+      "estabelecimento": "PHARMEX",
+      "registered": "2014-07-03T09:11:26+03:00"
+    },
+    {
+      "id": "61ba7ab00f15c427b4ff1693",
+      "valor": 3673.4269,
+      "tipo": 2,
+      "estabelecimento": "FARMAGE",
+      "registered": "2014-02-20T11:24:57+03:00"
+    },
+    {
+      "id": "61ba7ab0e984c44cbd6fb844",
+      "valor": 3035.2154,
+      "tipo": 1,
+      "estabelecimento": "ZILLATIDE",
+      "registered": "2017-04-15T08:19:37+03:00"
+    },
+    {
+      "id": "61ba7ab0d016dbd346ba499f",
+      "valor": 1166.8271,
+      "tipo": 1,
+      "estabelecimento": "SIGNITY",
+      "registered": "2019-10-04T11:46:08+03:00"
+    },
+    {
+      "id": "61ba7ab03791725804cb85a9",
+      "valor": 3588.9001,
+      "tipo": 2,
+      "estabelecimento": "ZOMBOID",
+      "registered": "2015-05-31T12:39:12+03:00"
+    },
+    {
+      "id": "61ba7ab0a51d387e4ab7be8e",
+      "valor": 1361.0469,
+      "tipo": 1,
+      "estabelecimento": "ZOGAK",
+      "registered": "2016-05-02T05:39:46+03:00"
+    },
+    {
+      "id": "61ba7ab06dac0f8fc5967024",
+      "valor": 2146.4627,
+      "tipo": 1,
+      "estabelecimento": "ZOLARITY",
+      "registered": "2017-05-10T08:23:56+03:00"
+    },
+    {
+      "id": "61ba7ab0ddcb4b624e9080c9",
+      "valor": 3735.2284,
+      "tipo": 1,
+      "estabelecimento": "COFINE",
+      "registered": "2018-09-29T11:51:20+03:00"
+    },
+    {
+      "id": "61ba7ab04479c7215d1e6cdc",
+      "valor": 2687.6318,
+      "tipo": 2,
+      "estabelecimento": "DRAGBOT",
+      "registered": "2020-05-28T11:41:14+03:00"
+    },
+    {
+      "id": "61ba7ab0ba1725334a39e1bd",
+      "valor": 2898.2365,
+      "tipo": 1,
+      "estabelecimento": "VIAGREAT",
+      "registered": "2014-12-01T08:09:42+02:00"
+    },
+    {
+      "id": "61ba7ab0f6b56405a1d05a27",
+      "valor": 3157.9519,
+      "tipo": 1,
+      "estabelecimento": "RENOVIZE",
+      "registered": "2015-11-03T01:34:15+02:00"
+    },
+    {
+      "id": "61ba7ab03814e012c6258de8",
+      "valor": 1196.2291,
+      "tipo": 2,
+      "estabelecimento": "DOGNOSIS",
+      "registered": "2020-11-08T10:58:52+03:00"
+    },
+    {
+      "id": "61ba7ab0e81d5a2dee9058c8",
+      "valor": 1378.87,
+      "tipo": 2,
+      "estabelecimento": "LUDAK",
+      "registered": "2016-01-15T03:06:41+02:00"
+    },
+    {
+      "id": "61ba7ab0bd83d0fa96b7be12",
+      "valor": 2871.8825,
+      "tipo": 2,
+      "estabelecimento": "CENTICE",
+      "registered": "2014-11-19T07:32:35+02:00"
+    },
+    {
+      "id": "61ba7ab08f7ffddddae2dffa",
+      "valor": 2172.7341,
+      "tipo": 1,
+      "estabelecimento": "UTARIAN",
+      "registered": "2014-08-31T03:23:25+03:00"
+    },
+    {
+      "id": "61ba7ab06b80ea65b3597652",
+      "valor": 1167.9801,
+      "tipo": 1,
+      "estabelecimento": "MOTOVATE",
+      "registered": "2021-11-14T08:32:31+03:00"
+    },
+    {
+      "id": "61ba7ab0af3136bd42b4ee69",
+      "valor": 2498.9534,
+      "tipo": 2,
+      "estabelecimento": "BLURRYBUS",
+      "registered": "2017-03-28T06:19:40+03:00"
+    },
+    {
+      "id": "61ba7ab029c84e21a0130ff2",
+      "valor": 1988.176,
+      "tipo": 2,
+      "estabelecimento": "KLUGGER",
+      "registered": "2016-03-18T12:04:24+03:00"
+    },
+    {
+      "id": "61ba7ab010830742fe7d0de3",
+      "valor": 1607.232,
+      "tipo": 1,
+      "estabelecimento": "PLAYCE",
+      "registered": "2020-08-04T01:07:38+03:00"
+    },
+    {
+      "id": "61ba7ab07243fb99340f4dca",
+      "valor": 1768.8123,
+      "tipo": 1,
+      "estabelecimento": "DIGIPRINT",
+      "registered": "2015-05-15T01:15:38+03:00"
+    },
+    {
+      "id": "61ba7ab01cde2ed5d250a42b",
+      "valor": 2727.8086,
+      "tipo": 2,
+      "estabelecimento": "ANIMALIA",
+      "registered": "2021-10-21T07:31:49+03:00"
+    },
+    {
+      "id": "61ba7ab0f2bab378fbd96c09",
+      "valor": 2064.3291,
+      "tipo": 2,
+      "estabelecimento": "PARCOE",
+      "registered": "2019-08-24T07:50:32+03:00"
+    },
+    {
+      "id": "61ba7ab0ad96f666c38df464",
+      "valor": 3548.2874,
+      "tipo": 2,
+      "estabelecimento": "ARTWORLDS",
+      "registered": "2016-06-30T05:42:45+03:00"
+    },
+    {
+      "id": "61ba7ab0e2ec0716f7f35b48",
+      "valor": 3780.3787,
+      "tipo": 2,
+      "estabelecimento": "SHOPABOUT",
+      "registered": "2018-04-05T01:24:16+03:00"
+    },
+    {
+      "id": "61ba7ab0732b75dbf6d73a24",
+      "valor": 3458.9816,
+      "tipo": 1,
+      "estabelecimento": "DIGIFAD",
+      "registered": "2020-02-11T12:45:23+03:00"
+    },
+    {
+      "id": "61ba7ab097f0a147955b9dc4",
+      "valor": 1213.3263,
+      "tipo": 2,
+      "estabelecimento": "DYNO",
+      "registered": "2015-06-03T08:33:02+03:00"
+    },
+    {
+      "id": "61ba7ab02905b4575514ed54",
+      "valor": 1721.3447,
+      "tipo": 2,
+      "estabelecimento": "KYAGURU",
+      "registered": "2015-02-02T12:38:28+02:00"
+    },
+    {
+      "id": "61ba7ab0f3aa4cea21fca2dc",
+      "valor": 2146.1446,
+      "tipo": 1,
+      "estabelecimento": "OCTOCORE",
+      "registered": "2020-03-06T11:15:43+03:00"
+    },
+    {
+      "id": "61ba7ab0baea5ebe40733144",
+      "valor": 1351.2496,
+      "tipo": 1,
+      "estabelecimento": "OVERFORK",
+      "registered": "2014-12-21T12:45:30+02:00"
+    },
+    {
+      "id": "61ba7ab0e8eb0f0f2bec78d4",
+      "valor": 1359.7463,
+      "tipo": 1,
+      "estabelecimento": "ERSUM",
+      "registered": "2019-07-25T03:32:16+03:00"
+    },
+    {
+      "id": "61ba7ab0a23c21d6887fe4c5",
+      "valor": 2524.1592,
+      "tipo": 2,
+      "estabelecimento": "GEEKOL",
+      "registered": "2018-07-24T11:44:09+03:00"
+    },
+    {
+      "id": "61ba7ab0424597ee9ee9cfac",
+      "valor": 1834.5265,
+      "tipo": 2,
+      "estabelecimento": "ANIVET",
+      "registered": "2015-07-18T04:02:04+03:00"
+    },
+    {
+      "id": "61ba7ab0556f61e64eb9077b",
+      "valor": 3231.2383,
+      "tipo": 1,
+      "estabelecimento": "FANFARE",
+      "registered": "2018-01-19T05:59:13+02:00"
+    },
+    {
+      "id": "61ba7ab085ae351a954701f8",
+      "valor": 3342.9721,
+      "tipo": 1,
+      "estabelecimento": "ENERFORCE",
+      "registered": "2018-10-04T02:03:27+03:00"
+    },
+    {
+      "id": "61ba7ab09b15d12484ab9b6b",
+      "valor": 2656.335,
+      "tipo": 2,
+      "estabelecimento": "XELEGYL",
+      "registered": "2017-07-20T10:25:59+03:00"
+    },
+    {
+      "id": "61ba7ab0bb300392a5b5ca8e",
+      "valor": 1699.8138,
+      "tipo": 1,
+      "estabelecimento": "ZYTREK",
+      "registered": "2020-07-12T11:40:22+03:00"
+    },
+    {
+      "id": "61ba7ab01b15b925538bb11b",
+      "valor": 2044.9017,
+      "tipo": 2,
+      "estabelecimento": "OMATOM",
+      "registered": "2015-12-12T02:27:46+02:00"
+    },
+    {
+      "id": "61ba7ab0f66cf6d0197c7d4d",
+      "valor": 3676.9246,
+      "tipo": 2,
+      "estabelecimento": "OVIUM",
+      "registered": "2018-08-06T02:05:17+03:00"
+    },
+    {
+      "id": "61ba7ab0f4accfd49a981c5e",
+      "valor": 1973.4119,
+      "tipo": 2,
+      "estabelecimento": "COWTOWN",
+      "registered": "2018-08-11T07:03:22+03:00"
+    },
+    {
+      "id": "61ba7ab0c6dd06af4b2f315d",
+      "valor": 3657.9613,
+      "tipo": 2,
+      "estabelecimento": "SNACKTION",
+      "registered": "2020-02-22T12:12:47+03:00"
+    },
+    {
+      "id": "61ba7ab0e3eff42145a08ed2",
+      "valor": 1980.3959,
+      "tipo": 2,
+      "estabelecimento": "EPLODE",
+      "registered": "2014-08-07T08:44:35+03:00"
+    },
+    {
+      "id": "61ba7ab060300baca466e4cc",
+      "valor": 3930.7772,
+      "tipo": 2,
+      "estabelecimento": "KONNECT",
+      "registered": "2018-10-29T05:13:04+03:00"
+    },
+    {
+      "id": "61ba7ab06466364397333cbc",
+      "valor": 1819.2139,
+      "tipo": 2,
+      "estabelecimento": "APPLIDECK",
+      "registered": "2014-06-28T08:12:15+03:00"
+    },
+    {
+      "id": "61ba7ab0609a6ddebe221132",
+      "valor": 3803.5522,
+      "tipo": 1,
+      "estabelecimento": "ISODRIVE",
+      "registered": "2018-03-19T06:26:51+03:00"
+    },
+    {
+      "id": "61ba7ab0e0f8e807b832aa55",
+      "valor": 2596.6069,
+      "tipo": 2,
+      "estabelecimento": "MEGALL",
+      "registered": "2021-07-18T06:50:10+03:00"
+    },
+    {
+      "id": "61ba7ab0e680cc0421c7e77f",
+      "valor": 1117.4687,
+      "tipo": 1,
+      "estabelecimento": "COMCUBINE",
+      "registered": "2019-07-18T09:48:58+03:00"
+    },
+    {
+      "id": "61ba7ab0184b40c99913c8e7",
+      "valor": 3364.0784,
+      "tipo": 2,
+      "estabelecimento": "AQUASURE",
+      "registered": "2020-05-06T04:40:04+03:00"
+    },
+    {
+      "id": "61ba7ab0b2b618adf4d4a783",
+      "valor": 1713.2654,
+      "tipo": 2,
+      "estabelecimento": "APPLIDEC",
+      "registered": "2020-11-08T05:23:39+03:00"
+    },
+    {
+      "id": "61ba7ab0e354b754ff0a1745",
+      "valor": 1944.369,
+      "tipo": 2,
+      "estabelecimento": "MANGELICA",
+      "registered": "2019-01-07T02:18:32+02:00"
+    },
+    {
+      "id": "61ba7ab0268eedd9de5e424c",
+      "valor": 3318.7273,
+      "tipo": 2,
+      "estabelecimento": "PROSURE",
+      "registered": "2021-06-03T08:12:24+03:00"
+    },
+    {
+      "id": "61ba7ab041b66a78696df56f",
+      "valor": 2867.1715,
+      "tipo": 1,
+      "estabelecimento": "PERKLE",
+      "registered": "2015-02-15T04:15:07+02:00"
+    },
+    {
+      "id": "61ba7ab0019c88b94ab227e6",
+      "valor": 1257.9074,
+      "tipo": 2,
+      "estabelecimento": "EXOPLODE",
+      "registered": "2018-10-12T04:29:21+03:00"
+    },
+    {
+      "id": "61ba7ab0dca6b7e21ff2b085",
+      "valor": 2064.7907,
+      "tipo": 2,
+      "estabelecimento": "STRALOY",
+      "registered": "2016-09-02T12:47:27+03:00"
+    },
+    {
+      "id": "61ba7ab024db2c7010c799ec",
+      "valor": 3113.6693,
+      "tipo": 2,
+      "estabelecimento": "JETSILK",
+      "registered": "2019-09-08T12:33:01+03:00"
+    },
+    {
+      "id": "61ba7ab0e9407e8e8c542d60",
+      "valor": 1038.7387,
+      "tipo": 2,
+      "estabelecimento": "DECRATEX",
+      "registered": "2017-07-06T12:40:46+03:00"
+    },
+    {
+      "id": "61ba7ab0e115d557bc9ff44f",
+      "valor": 1627.764,
+      "tipo": 1,
+      "estabelecimento": "PLASMOSIS",
+      "registered": "2016-01-31T12:41:26+02:00"
+    },
+    {
+      "id": "61ba7ab00b5880322668808b",
+      "valor": 3416.4565,
+      "tipo": 1,
+      "estabelecimento": "EQUITOX",
+      "registered": "2020-01-09T10:12:24+03:00"
+    },
+    {
+      "id": "61ba7ab0f4d1dbe66d22addb",
+      "valor": 2620.2294,
+      "tipo": 2,
+      "estabelecimento": "ZYTRAX",
+      "registered": "2020-04-21T05:53:14+03:00"
+    },
+    {
+      "id": "61ba7ab05e763fd228641d41",
+      "valor": 2694.8252,
+      "tipo": 1,
+      "estabelecimento": "ENTOGROK",
+      "registered": "2016-12-11T04:46:02+02:00"
+    },
+    {
+      "id": "61ba7ab0a2159c8167471039",
+      "valor": 3531.8993,
+      "tipo": 2,
+      "estabelecimento": "AUSTECH",
+      "registered": "2020-05-14T06:33:13+03:00"
+    },
+    {
+      "id": "61ba7ab0c9188f7e48475bb1",
+      "valor": 3293.6916,
+      "tipo": 2,
+      "estabelecimento": "COLUMELLA",
+      "registered": "2017-05-30T06:02:11+03:00"
+    },
+    {
+      "id": "61ba7ab0d44b384bf026d644",
+      "valor": 3832.028,
+      "tipo": 2,
+      "estabelecimento": "XURBAN",
+      "registered": "2018-07-07T08:31:20+03:00"
+    },
+    {
+      "id": "61ba7ab026aa1cb7de3c3d63",
+      "valor": 3002.2697,
+      "tipo": 2,
+      "estabelecimento": "NEUROCELL",
+      "registered": "2020-02-16T11:41:14+03:00"
+    },
+    {
+      "id": "61ba7ab0bc2e9a1c94c4e99b",
+      "valor": 1848.5842,
+      "tipo": 2,
+      "estabelecimento": "MAGNEMO",
+      "registered": "2020-11-17T08:06:52+03:00"
+    },
+    {
+      "id": "61ba7ab0e445de627613f376",
+      "valor": 2984.2059,
+      "tipo": 2,
+      "estabelecimento": "ASIMILINE",
+      "registered": "2018-11-18T01:21:09+02:00"
+    },
+    {
+      "id": "61ba7ab08afe724dc891b1b3",
+      "valor": 2392.3429,
+      "tipo": 1,
+      "estabelecimento": "OCEANICA",
+      "registered": "2021-04-18T10:36:06+03:00"
+    },
+    {
+      "id": "61ba7ab02fc63128bfecd588",
+      "valor": 2348.372,
+      "tipo": 1,
+      "estabelecimento": "GEEKOLOGY",
+      "registered": "2020-05-16T01:40:56+03:00"
+    },
+    {
+      "id": "61ba7ab068366208184348e7",
+      "valor": 2355.4929,
+      "tipo": 1,
+      "estabelecimento": "EXOZENT",
+      "registered": "2021-02-28T11:27:37+03:00"
+    },
+    {
+      "id": "61ba7ab059b4d2da9ad661b2",
+      "valor": 2924.26,
+      "tipo": 2,
+      "estabelecimento": "BITENDREX",
+      "registered": "2019-05-23T02:34:00+03:00"
+    },
+    {
+      "id": "61ba7ab07435cb75c1ba2204",
+      "valor": 1776.6536,
+      "tipo": 2,
+      "estabelecimento": "QUAREX",
+      "registered": "2019-10-04T07:22:31+03:00"
+    },
+    {
+      "id": "61ba7ab06a4432fe41fe83d7",
+      "valor": 1000.1747,
+      "tipo": 2,
+      "estabelecimento": "PURIA",
+      "registered": "2021-08-30T08:11:26+03:00"
+    },
+    {
+      "id": "61ba7ab0bcbb191782b4d004",
+      "valor": 1971.4546,
+      "tipo": 1,
+      "estabelecimento": "ZIALACTIC",
+      "registered": "2014-03-27T04:14:41+03:00"
+    },
+    {
+      "id": "61ba7ab0fa2c57a08947c9b7",
+      "valor": 1177.9548,
+      "tipo": 2,
+      "estabelecimento": "ZYTREX",
+      "registered": "2015-08-23T07:16:44+03:00"
+    },
+    {
+      "id": "61ba7ab0d95f5d7877769b5e",
+      "valor": 1993.2885,
+      "tipo": 1,
+      "estabelecimento": "PORTALINE",
+      "registered": "2021-10-11T10:59:59+03:00"
+    },
+    {
+      "id": "61ba7ab05d20f24de19b6668",
+      "valor": 2049.1109,
+      "tipo": 1,
+      "estabelecimento": "TECHTRIX",
+      "registered": "2014-02-28T03:05:53+03:00"
+    },
+    {
+      "id": "61ba7ab02ecd773725a5d5b3",
+      "valor": 2752.2267,
+      "tipo": 2,
+      "estabelecimento": "COSMETEX",
+      "registered": "2020-11-22T08:39:26+03:00"
+    },
+    {
+      "id": "61ba7ab04a12f5be22ca1aaf",
+      "valor": 2862.5395,
+      "tipo": 2,
+      "estabelecimento": "CENTURIA",
+      "registered": "2019-07-09T04:47:24+03:00"
+    },
+    {
+      "id": "61ba7ab0a22ae590c537ec97",
+      "valor": 1273.7226,
+      "tipo": 2,
+      "estabelecimento": "CENTREGY",
+      "registered": "2014-07-20T01:53:21+03:00"
+    },
+    {
+      "id": "61ba7ab038111613f138d8b0",
+      "valor": 3621.3631,
+      "tipo": 2,
+      "estabelecimento": "RETRACK",
+      "registered": "2016-12-06T05:31:22+02:00"
+    },
+    {
+      "id": "61ba7ab016e7bfaca3f5046b",
+      "valor": 3083.9818,
+      "tipo": 2,
+      "estabelecimento": "CUBIX",
+      "registered": "2015-01-26T02:25:53+02:00"
+    },
+    {
+      "id": "61ba7ab0375f9241845229ee",
+      "valor": 1980.8703,
+      "tipo": 2,
+      "estabelecimento": "EQUICOM",
+      "registered": "2017-10-01T11:43:45+03:00"
+    },
+    {
+      "id": "61ba7ab03c19ae1f3d34f1b9",
+      "valor": 2613.6658,
+      "tipo": 1,
+      "estabelecimento": "APPLICA",
+      "registered": "2014-12-04T08:45:25+02:00"
+    },
+    {
+      "id": "61ba7ab0ce890a402aaecf89",
+      "valor": 1923.7364,
+      "tipo": 1,
+      "estabelecimento": "RONBERT",
+      "registered": "2017-05-03T08:27:03+03:00"
+    },
+    {
+      "id": "61ba7ab07c9c80889c172898",
+      "valor": 1983.2636,
+      "tipo": 2,
+      "estabelecimento": "PLASMOX",
+      "registered": "2021-05-25T01:18:09+03:00"
+    },
+    {
+      "id": "61ba7ab0c912c534297d4900",
+      "valor": 1198.2442,
+      "tipo": 1,
+      "estabelecimento": "QOT",
+      "registered": "2017-04-05T06:53:08+03:00"
+    },
+    {
+      "id": "61ba7ab0b5e007679fa044e8",
+      "valor": 1705.7186,
+      "tipo": 2,
+      "estabelecimento": "OTHERWAY",
+      "registered": "2017-10-24T03:54:43+02:00"
+    },
+    {
+      "id": "61ba7ab0e5973abeb31519cd",
+      "valor": 1362.4673,
+      "tipo": 1,
+      "estabelecimento": "ACCIDENCY",
+      "registered": "2014-06-24T03:21:11+03:00"
+    },
+    {
+      "id": "61ba7ab0549e85ac92a9d6e8",
+      "valor": 3241.7499,
+      "tipo": 1,
+      "estabelecimento": "COASH",
+      "registered": "2018-10-25T12:33:44+03:00"
+    },
+    {
+      "id": "61ba7ab0ad550cdb7ef64a03",
+      "valor": 1321.461,
+      "tipo": 2,
+      "estabelecimento": "COMTOURS",
+      "registered": "2016-11-17T12:50:00+02:00"
+    },
+    {
+      "id": "61ba7ab0af941671253b6a37",
+      "valor": 3156.6019,
+      "tipo": 2,
+      "estabelecimento": "ZENSURE",
+      "registered": "2016-03-23T07:44:04+03:00"
+    },
+    {
+      "id": "61ba7ab0fa4069367629e900",
+      "valor": 3221.7648,
+      "tipo": 1,
+      "estabelecimento": "ULTRASURE",
+      "registered": "2014-08-28T02:08:13+03:00"
+    },
+    {
+      "id": "61ba7ab087a78d54e0d8a571",
+      "valor": 2101.4792,
+      "tipo": 1,
+      "estabelecimento": "ENTROFLEX",
+      "registered": "2020-10-01T07:24:00+03:00"
+    },
+    {
+      "id": "61ba7ab089abca95a0c5de11",
+      "valor": 1555.7541,
+      "tipo": 1,
+      "estabelecimento": "EXOSWITCH",
+      "registered": "2021-10-05T10:20:29+03:00"
+    },
+    {
+      "id": "61ba7ab0005cae59db560f16",
+      "valor": 3702.3523,
+      "tipo": 1,
+      "estabelecimento": "ACCUSAGE",
+      "registered": "2018-04-15T09:18:45+03:00"
+    },
+    {
+      "id": "61ba7ab0b9d87a6053d212cf",
+      "valor": 3650.2861,
+      "tipo": 1,
+      "estabelecimento": "TERRASYS",
+      "registered": "2017-03-13T06:04:11+03:00"
+    },
+    {
+      "id": "61ba7ab0c5ebb2be180f91f7",
+      "valor": 3518.9195,
+      "tipo": 2,
+      "estabelecimento": "GAPTEC",
+      "registered": "2017-01-07T09:47:45+02:00"
+    },
+    {
+      "id": "61ba7ab0a6817d72561bbadb",
+      "valor": 1750.9635,
+      "tipo": 2,
+      "estabelecimento": "INTRADISK",
+      "registered": "2014-05-08T08:12:36+03:00"
+    },
+    {
+      "id": "61ba7ab0fafdf68905e45f34",
+      "valor": 1656.6113,
+      "tipo": 2,
+      "estabelecimento": "EVENTAGE",
+      "registered": "2016-05-07T04:35:02+03:00"
+    },
+    {
+      "id": "61ba7ab072c52835842a346c",
+      "valor": 1845.9451,
+      "tipo": 1,
+      "estabelecimento": "QUORDATE",
+      "registered": "2020-03-16T04:59:46+03:00"
+    },
+    {
+      "id": "61ba7ab0397c54fcab5db191",
+      "valor": 2265.8989,
+      "tipo": 2,
+      "estabelecimento": "PIVITOL",
+      "registered": "2021-10-20T10:44:48+03:00"
+    },
+    {
+      "id": "61ba7ab097f23a33a219e792",
+      "valor": 1544.4532,
+      "tipo": 1,
+      "estabelecimento": "CALCULA",
+      "registered": "2017-02-12T06:07:36+02:00"
+    },
+    {
+      "id": "61ba7ab081ad2c67b914ffe9",
+      "valor": 3845.451,
+      "tipo": 1,
+      "estabelecimento": "AQUASSEUR",
+      "registered": "2015-10-01T01:49:15+03:00"
+    },
+    {
+      "id": "61ba7ab044c7800e63dfb9fc",
+      "valor": 1400.3898,
+      "tipo": 2,
+      "estabelecimento": "TURNLING",
+      "registered": "2018-04-01T11:47:37+03:00"
+    },
+    {
+      "id": "61ba7ab0e4cc3dd5e7830a31",
+      "valor": 1232.858,
+      "tipo": 1,
+      "estabelecimento": "HANDSHAKE",
+      "registered": "2020-10-15T06:36:11+03:00"
+    },
+    {
+      "id": "61ba7ab0947631fcc802dd17",
+      "valor": 3620.3164,
+      "tipo": 2,
+      "estabelecimento": "KONGLE",
+      "registered": "2015-08-29T10:42:22+03:00"
+    },
+    {
+      "id": "61ba7ab07090c618af01fae7",
+      "valor": 3105.9757,
+      "tipo": 1,
+      "estabelecimento": "EZENTIA",
+      "registered": "2020-06-23T12:08:56+03:00"
+    },
+    {
+      "id": "61ba7ab0fcf2121c0787cc4f",
+      "valor": 2038.8156,
+      "tipo": 2,
+      "estabelecimento": "LOVEPAD",
+      "registered": "2021-07-30T08:42:59+03:00"
+    },
+    {
+      "id": "61ba7ab08638520335057e5c",
+      "valor": 1218.7658,
+      "tipo": 1,
+      "estabelecimento": "CYTRAK",
+      "registered": "2019-06-06T11:51:21+03:00"
+    },
+    {
+      "id": "61ba7ab0eff3100d344d619f",
+      "valor": 1055.0126,
+      "tipo": 1,
+      "estabelecimento": "PYRAMAX",
+      "registered": "2016-03-16T12:17:27+03:00"
+    },
+    {
+      "id": "61ba7ab0da606065e7fd74e7",
+      "valor": 1508.0961,
+      "tipo": 2,
+      "estabelecimento": "EXOVENT",
+      "registered": "2014-09-10T11:38:00+03:00"
+    },
+    {
+      "id": "61ba7ab0b8f861d074c8579c",
+      "valor": 1298.2774,
+      "tipo": 1,
+      "estabelecimento": "TELEPARK",
+      "registered": "2021-12-11T07:56:40+03:00"
+    },
+    {
+      "id": "61ba7ab0d02b95495fb99afc",
+      "valor": 3106.4673,
+      "tipo": 1,
+      "estabelecimento": "CENTREE",
+      "registered": "2017-06-06T04:29:27+03:00"
+    },
+    {
+      "id": "61ba7ab012c0180dd63e13c3",
+      "valor": 2616.913,
+      "tipo": 2,
+      "estabelecimento": "ATGEN",
+      "registered": "2017-02-19T11:24:52+03:00"
+    },
+    {
+      "id": "61ba7ab0f6325b5218dcf8c7",
+      "valor": 3322.9813,
+      "tipo": 2,
+      "estabelecimento": "MIRACLIS",
+      "registered": "2016-10-30T07:49:26+02:00"
+    },
+    {
+      "id": "61ba7ab054e4e7a28cc009ba",
+      "valor": 1639.5581,
+      "tipo": 2,
+      "estabelecimento": "ZEROLOGY",
+      "registered": "2014-05-28T01:51:55+03:00"
+    },
+    {
+      "id": "61ba7ab03b6bcdc25fbcf751",
+      "valor": 3460.8355,
+      "tipo": 2,
+      "estabelecimento": "GEOLOGIX",
+      "registered": "2020-04-05T02:45:03+03:00"
+    },
+    {
+      "id": "61ba7ab0294b92681a901a7a",
+      "valor": 1261.673,
+      "tipo": 2,
+      "estabelecimento": "ANARCO",
+      "registered": "2020-03-18T01:33:24+03:00"
+    },
+    {
+      "id": "61ba7ab01a784d372dbe7196",
+      "valor": 2165.0145,
+      "tipo": 1,
+      "estabelecimento": "VISALIA",
+      "registered": "2015-03-10T12:59:35+03:00"
+    },
+    {
+      "id": "61ba7ab0abab4375bbc4390f",
+      "valor": 1440.6632,
+      "tipo": 2,
+      "estabelecimento": "XERONK",
+      "registered": "2020-04-08T11:58:29+03:00"
+    },
+    {
+      "id": "61ba7ab07a1e286a2a4dd166",
+      "valor": 3102.6537,
+      "tipo": 1,
+      "estabelecimento": "MANTRO",
+      "registered": "2021-08-18T07:39:27+03:00"
+    },
+    {
+      "id": "61ba7ab0ea90fd241236b903",
+      "valor": 1780.9128,
+      "tipo": 2,
+      "estabelecimento": "CODACT",
+      "registered": "2017-10-06T07:27:08+03:00"
+    },
+    {
+      "id": "61ba7ab08e67af099df30dc7",
+      "valor": 1949.8192,
+      "tipo": 2,
+      "estabelecimento": "CYTREK",
+      "registered": "2017-07-04T12:41:07+03:00"
+    },
+    {
+      "id": "61ba7ab07e54dcf0df9031c1",
+      "valor": 2390.2253,
+      "tipo": 1,
+      "estabelecimento": "INTERGEEK",
+      "registered": "2015-07-13T06:58:37+03:00"
+    },
+    {
+      "id": "61ba7ab0e6347b4561bdb295",
+      "valor": 3865.9684,
+      "tipo": 1,
+      "estabelecimento": "CIRCUM",
+      "registered": "2019-01-27T03:46:55+02:00"
+    },
+    {
+      "id": "61ba7ab0e7b1ce4dbc30a0f9",
+      "valor": 1835.9852,
+      "tipo": 2,
+      "estabelecimento": "CEMENTION",
+      "registered": "2016-09-15T01:49:46+03:00"
+    },
+    {
+      "id": "61ba7ab0f662c31fda20ce2e",
+      "valor": 3136.4179,
+      "tipo": 1,
+      "estabelecimento": "CEPRENE",
+      "registered": "2020-04-06T05:54:02+03:00"
+    },
+    {
+      "id": "61ba7ab0fe03e9238862f508",
+      "valor": 1018.9337,
+      "tipo": 2,
+      "estabelecimento": "CORECOM",
+      "registered": "2020-05-21T11:01:57+03:00"
+    },
+    {
+      "id": "61ba7ab069bb2e361a645b79",
+      "valor": 2528.026,
+      "tipo": 1,
+      "estabelecimento": "LYRICHORD",
+      "registered": "2018-03-13T04:44:08+03:00"
+    },
+    {
+      "id": "61ba7ab0c0ee52785e951f5b",
+      "valor": 3501.2895,
+      "tipo": 1,
+      "estabelecimento": "ZILLANET",
+      "registered": "2014-12-28T01:51:49+02:00"
+    },
+    {
+      "id": "61ba7ab01b5b7ebb25f7a4d3",
+      "valor": 3050.5732,
+      "tipo": 2,
+      "estabelecimento": "LUMBREX",
+      "registered": "2018-07-15T11:45:05+03:00"
+    },
+    {
+      "id": "61ba7ab0730635087a7b61f2",
+      "valor": 1270.6004,
+      "tipo": 2,
+      "estabelecimento": "PORTICO",
+      "registered": "2018-10-27T08:32:21+03:00"
+    },
+    {
+      "id": "61ba7ab05d60d5478f4d0428",
+      "valor": 2730.8063,
+      "tipo": 1,
+      "estabelecimento": "KINETICUT",
+      "registered": "2015-08-03T11:54:42+03:00"
+    },
+    {
+      "id": "61ba7ab09765f2f9f09de1ee",
+      "valor": 3950.0518,
+      "tipo": 1,
+      "estabelecimento": "ROOFORIA",
+      "registered": "2018-06-22T02:32:27+03:00"
+    },
+    {
+      "id": "61ba7ab0506aab008a4bf3c4",
+      "valor": 2489.8673,
+      "tipo": 1,
+      "estabelecimento": "ACRODANCE",
+      "registered": "2014-03-02T01:24:41+03:00"
+    },
+    {
+      "id": "61ba7ab07bf92e2f470c4678",
+      "valor": 2712.2559,
+      "tipo": 2,
+      "estabelecimento": "VIRXO",
+      "registered": "2015-07-21T01:47:09+03:00"
+    },
+    {
+      "id": "61ba7ab0a5488ef8ad10a88a",
+      "valor": 3738.2521,
+      "tipo": 1,
+      "estabelecimento": "HYPLEX",
+      "registered": "2021-01-27T09:53:20+03:00"
+    },
+    {
+      "id": "61ba7ab056821059cd3205ec",
+      "valor": 2493.9133,
+      "tipo": 2,
+      "estabelecimento": "GOLOGY",
+      "registered": "2015-07-21T11:55:54+03:00"
+    },
+    {
+      "id": "61ba7ab074a9aa7d32aeda89",
+      "valor": 3423.1187,
+      "tipo": 1,
+      "estabelecimento": "STUCCO",
+      "registered": "2015-08-24T10:22:53+03:00"
+    },
+    {
+      "id": "61ba7ab013e291f97048c113",
+      "valor": 1531.3413,
+      "tipo": 2,
+      "estabelecimento": "TUBALUM",
+      "registered": "2016-05-31T08:28:49+03:00"
+    },
+    {
+      "id": "61ba7ab01abf22e9fa335af8",
+      "valor": 2701.6821,
+      "tipo": 1,
+      "estabelecimento": "ZOLAR",
+      "registered": "2014-04-24T06:10:41+03:00"
+    },
+    {
+      "id": "61ba7ab00d46cc585adc7a43",
+      "valor": 1628.4678,
+      "tipo": 2,
+      "estabelecimento": "ACCUPHARM",
+      "registered": "2015-03-13T05:41:34+03:00"
+    },
+    {
+      "id": "61ba7ab0d7a98d5366e32b60",
+      "valor": 1545.4076,
+      "tipo": 1,
+      "estabelecimento": "OVERPLEX",
+      "registered": "2017-03-28T11:44:15+03:00"
+    },
+    {
+      "id": "61ba7ab06ba3c4cc23af02c2",
+      "valor": 3210.7612,
+      "tipo": 1,
+      "estabelecimento": "PORTALIS",
+      "registered": "2016-09-05T11:46:38+03:00"
+    },
+    {
+      "id": "61ba7ab0ba0f928be12ca2ce",
+      "valor": 1394.0437,
+      "tipo": 1,
+      "estabelecimento": "INJOY",
+      "registered": "2020-11-22T09:46:01+03:00"
+    },
+    {
+      "id": "61ba7ab056ec5f6de719dc7d",
+      "valor": 3317.4073,
+      "tipo": 1,
+      "estabelecimento": "GEEKMOSIS",
+      "registered": "2015-02-06T01:17:28+02:00"
+    },
+    {
+      "id": "61ba7ab0ddbae4279452b831",
+      "valor": 1566.7762,
+      "tipo": 1,
+      "estabelecimento": "ECLIPTO",
+      "registered": "2016-06-28T02:46:19+03:00"
+    },
+    {
+      "id": "61ba7ab02b20e7f5975d2d7d",
+      "valor": 1312.6828,
+      "tipo": 1,
+      "estabelecimento": "EXTRAGENE",
+      "registered": "2019-04-28T05:11:37+03:00"
+    },
+    {
+      "id": "61ba7ab0fd3b2957bb5e6f7f",
+      "valor": 1894.9486,
+      "tipo": 2,
+      "estabelecimento": "HINWAY",
+      "registered": "2020-09-16T01:47:35+03:00"
+    },
+    {
+      "id": "61ba7ab0a3d0d465d13f7f4b",
+      "valor": 2684.9174,
+      "tipo": 1,
+      "estabelecimento": "ZENTURY",
+      "registered": "2020-11-07T12:22:38+03:00"
+    },
+    {
+      "id": "61ba7ab09562740ce085eecd",
+      "valor": 3130.0955,
+      "tipo": 1,
+      "estabelecimento": "ARTIQ",
+      "registered": "2015-01-16T11:13:33+02:00"
+    },
+    {
+      "id": "61ba7ab0f4822bb915826d6e",
+      "valor": 3237.6015,
+      "tipo": 1,
+      "estabelecimento": "LIQUIDOC",
+      "registered": "2019-10-12T01:13:20+03:00"
+    },
+    {
+      "id": "61ba7ab0b85d9e6051807987",
+      "valor": 2636.7646,
+      "tipo": 1,
+      "estabelecimento": "ZINCA",
+      "registered": "2014-08-19T03:24:23+03:00"
+    },
+    {
+      "id": "61ba7ab07af695a72cb43d44",
+      "valor": 3333.3201,
+      "tipo": 2,
+      "estabelecimento": "OPTIQUE",
+      "registered": "2021-04-20T07:42:11+03:00"
+    },
+    {
+      "id": "61ba7ab0a5a530c042855b6a",
+      "valor": 1948.5016,
+      "tipo": 1,
+      "estabelecimento": "SHEPARD",
+      "registered": "2014-09-10T07:40:23+03:00"
+    },
+    {
+      "id": "61ba7ab0d8667ab9587b3ca9",
+      "valor": 3153.23,
+      "tipo": 2,
+      "estabelecimento": "PAPRICUT",
+      "registered": "2018-12-22T11:09:48+02:00"
+    },
+    {
+      "id": "61ba7ab0f0b2b5c6a65ac155",
+      "valor": 3040.789,
+      "tipo": 2,
+      "estabelecimento": "PARAGONIA",
+      "registered": "2016-12-31T08:08:30+02:00"
+    },
+    {
+      "id": "61ba7ab00d84c0797b9ccb1b",
+      "valor": 1880.5702,
+      "tipo": 2,
+      "estabelecimento": "DREAMIA",
+      "registered": "2016-06-04T05:19:57+03:00"
+    },
+    {
+      "id": "61ba7ab03c115af89a173ceb",
+      "valor": 1779.0458,
+      "tipo": 1,
+      "estabelecimento": "LIQUICOM",
+      "registered": "2017-08-31T08:36:09+03:00"
+    },
+    {
+      "id": "61ba7ab0c6a702f6f8c5938f",
+      "valor": 2359.4887,
+      "tipo": 2,
+      "estabelecimento": "ENERVATE",
+      "registered": "2021-09-19T12:03:36+03:00"
+    },
+    {
+      "id": "61ba7ab0b8c42b7eb3acd89f",
+      "valor": 2632.8809,
+      "tipo": 2,
+      "estabelecimento": "COMTEXT",
+      "registered": "2019-10-17T02:01:34+03:00"
+    },
+    {
+      "id": "61ba7ab086779d78f6743233",
+      "valor": 1684.2673,
+      "tipo": 2,
+      "estabelecimento": "ZIORE",
+      "registered": "2019-01-17T01:22:48+02:00"
+    },
+    {
+      "id": "61ba7ab0426c52a77ec43d09",
+      "valor": 1818.3397,
+      "tipo": 2,
+      "estabelecimento": "SUSTENZA",
+      "registered": "2021-05-25T01:19:34+03:00"
+    },
+    {
+      "id": "61ba7ab0c660fabf3e5d6759",
+      "valor": 3750.9134,
+      "tipo": 2,
+      "estabelecimento": "IMMUNICS",
+      "registered": "2014-08-23T12:06:07+03:00"
+    },
+    {
+      "id": "61ba7ab00609fd200c4c7b60",
+      "valor": 2046.4646,
+      "tipo": 2,
+      "estabelecimento": "TROPOLI",
+      "registered": "2021-09-08T05:38:54+03:00"
+    },
+    {
+      "id": "61ba7ab01a7491dd1f6e135c",
+      "valor": 1276.385,
+      "tipo": 1,
+      "estabelecimento": "MULTRON",
+      "registered": "2015-12-11T05:43:05+02:00"
+    },
+    {
+      "id": "61ba7ab02d4d681a7f4e96e7",
+      "valor": 1597.007,
+      "tipo": 2,
+      "estabelecimento": "WAAB",
+      "registered": "2017-03-26T09:55:07+03:00"
+    },
+    {
+      "id": "61ba7ab0be96f2e87c8d8fa9",
+      "valor": 1083.5176,
+      "tipo": 2,
+      "estabelecimento": "BRAINCLIP",
+      "registered": "2021-02-07T12:43:58+03:00"
+    },
+    {
+      "id": "61ba7ab0b13d41cdc8ee89dd",
+      "valor": 3069.6732,
+      "tipo": 2,
+      "estabelecimento": "EMERGENT",
+      "registered": "2014-01-12T11:13:38+02:00"
+    },
+    {
+      "id": "61ba7ab057e89388cf1dae56",
+      "valor": 3318.2944,
+      "tipo": 2,
+      "estabelecimento": "LINGOAGE",
+      "registered": "2019-12-16T04:56:45+03:00"
+    },
+    {
+      "id": "61ba7ab04b5a360c186ac1f5",
+      "valor": 1483.4135,
+      "tipo": 2,
+      "estabelecimento": "STROZEN",
+      "registered": "2021-10-21T10:32:49+03:00"
+    },
+    {
+      "id": "61ba7ab0e7c9aa1a8b0114c3",
+      "valor": 3670.8297,
+      "tipo": 1,
+      "estabelecimento": "EXOBLUE",
+      "registered": "2020-09-05T05:01:42+03:00"
+    },
+    {
+      "id": "61ba7ab0a1b743e7906ef45a",
+      "valor": 2125.7909,
+      "tipo": 2,
+      "estabelecimento": "ARCTIQ",
+      "registered": "2015-08-11T08:44:12+03:00"
+    },
+    {
+      "id": "61ba7ab0b7734d8d45349666",
+      "valor": 1782.7009,
+      "tipo": 2,
+      "estabelecimento": "EMOLTRA",
+      "registered": "2014-07-24T03:49:04+03:00"
+    },
+    {
+      "id": "61ba7ab022a1de9de631481c",
+      "valor": 2515.8402,
+      "tipo": 1,
+      "estabelecimento": "TALKOLA",
+      "registered": "2021-02-03T07:52:33+03:00"
+    },
+    {
+      "id": "61ba7ab0d81aca3d5a6e297e",
+      "valor": 2043.7336,
+      "tipo": 1,
+      "estabelecimento": "QUILM",
+      "registered": "2020-09-15T12:19:04+03:00"
+    },
+    {
+      "id": "61ba7ab0f1261d28b13abff2",
+      "valor": 3488.1191,
+      "tipo": 1,
+      "estabelecimento": "PERMADYNE",
+      "registered": "2018-03-13T09:31:57+03:00"
+    },
+    {
+      "id": "61ba7ab0e77bc9a9eca360df",
+      "valor": 2268.0695,
+      "tipo": 1,
+      "estabelecimento": "FITCORE",
+      "registered": "2017-12-03T02:50:14+02:00"
+    },
+    {
+      "id": "61ba7ab0ae88ec2ed19c9b13",
+      "valor": 3226.3914,
+      "tipo": 1,
+      "estabelecimento": "PROGENEX",
+      "registered": "2017-02-21T11:21:10+03:00"
+    },
+    {
+      "id": "61ba7ab084d57a9e006662a9",
+      "valor": 2917.7997,
+      "tipo": 1,
+      "estabelecimento": "ENTALITY",
+      "registered": "2015-02-21T03:06:50+02:00"
+    },
+    {
+      "id": "61ba7ab02f6bebd8243f15ce",
+      "valor": 1668.6851,
+      "tipo": 1,
+      "estabelecimento": "TASMANIA",
+      "registered": "2015-06-04T07:01:54+03:00"
+    },
+    {
+      "id": "61ba7ab0595d80a7b09dae2f",
+      "valor": 3690.3173,
+      "tipo": 1,
+      "estabelecimento": "SLOGANAUT",
+      "registered": "2018-11-05T07:59:10+02:00"
+    },
+    {
+      "id": "61ba7ab054de287020cb2104",
+      "valor": 3344.989,
+      "tipo": 1,
+      "estabelecimento": "MUSAPHICS",
+      "registered": "2021-08-27T12:20:28+03:00"
+    },
+    {
+      "id": "61ba7ab0f4711f272508565e",
+      "valor": 2219.4623,
+      "tipo": 1,
+      "estabelecimento": "MEDIOT",
+      "registered": "2016-07-06T11:31:43+03:00"
+    },
+    {
+      "id": "61ba7ab0d472ff6653df91b2",
+      "valor": 2270.0006,
+      "tipo": 2,
+      "estabelecimento": "QUILTIGEN",
+      "registered": "2016-08-16T07:15:18+03:00"
+    },
+    {
+      "id": "61ba7ab0594c104c110069d8",
+      "valor": 1315.5033,
+      "tipo": 1,
+      "estabelecimento": "WEBIOTIC",
+      "registered": "2020-10-22T04:53:49+03:00"
+    },
+    {
+      "id": "61ba7ab0df2d5d51bb8dd0f4",
+      "valor": 2616.5217,
+      "tipo": 1,
+      "estabelecimento": "MAGNINA",
+      "registered": "2015-08-10T11:24:16+03:00"
+    },
+    {
+      "id": "61ba7ab067b3391df949e5ee",
+      "valor": 2447.9807,
+      "tipo": 2,
+      "estabelecimento": "KANGLE",
+      "registered": "2019-11-10T03:57:29+03:00"
+    },
+    {
+      "id": "61ba7ab040f442146760459d",
+      "valor": 2886.5463,
+      "tipo": 1,
+      "estabelecimento": "OBLIQ",
+      "registered": "2016-07-04T05:42:24+03:00"
+    },
+    {
+      "id": "61ba7ab01cdb6067f5be41c0",
+      "valor": 2645.5182,
+      "tipo": 2,
+      "estabelecimento": "BRISTO",
+      "registered": "2018-10-10T01:56:01+03:00"
+    },
+    {
+      "id": "61ba7ab0a622e79c5d67d9ac",
+      "valor": 3107.2964,
+      "tipo": 1,
+      "estabelecimento": "ENAUT",
+      "registered": "2020-05-02T08:45:46+03:00"
+    },
+    {
+      "id": "61ba7ab02fc4be4d1a711310",
+      "valor": 1120.983,
+      "tipo": 1,
+      "estabelecimento": "COMVEYOR",
+      "registered": "2014-03-07T06:46:14+03:00"
+    },
+    {
+      "id": "61ba7ab03256ca658329c998",
+      "valor": 3190.0075,
+      "tipo": 2,
+      "estabelecimento": "TRANSLINK",
+      "registered": "2021-03-11T03:06:16+03:00"
+    },
+    {
+      "id": "61ba7ab085cc8ee7c816459d",
+      "valor": 2016.9317,
+      "tipo": 2,
+      "estabelecimento": "FIREWAX",
+      "registered": "2018-10-01T04:57:03+03:00"
+    },
+    {
+      "id": "61ba7ab05c759377303221cd",
+      "valor": 3858.8833,
+      "tipo": 2,
+      "estabelecimento": "ECRATER",
+      "registered": "2017-02-04T02:05:51+02:00"
+    },
+    {
+      "id": "61ba7ab0fe84c50a5c0e456a",
+      "valor": 1473.1924,
+      "tipo": 2,
+      "estabelecimento": "CANDECOR",
+      "registered": "2020-09-21T12:45:26+03:00"
+    },
+    {
+      "id": "61ba7ab025086604102c112c",
+      "valor": 2686.6458,
+      "tipo": 1,
+      "estabelecimento": "INQUALA",
+      "registered": "2014-05-19T03:54:27+03:00"
+    },
+    {
+      "id": "61ba7ab082053b25b7bb7242",
+      "valor": 3434.6851,
+      "tipo": 1,
+      "estabelecimento": "ZENTIME",
+      "registered": "2017-09-11T05:54:24+03:00"
+    },
+    {
+      "id": "61ba7ab09b888397aa9f2531",
+      "valor": 2404.3865,
+      "tipo": 1,
+      "estabelecimento": "PROFLEX",
+      "registered": "2014-10-15T12:39:41+03:00"
+    },
+    {
+      "id": "61ba7ab030a49e7cb10823b0",
+      "valor": 2384.9864,
+      "tipo": 1,
+      "estabelecimento": "REMOLD",
+      "registered": "2015-05-04T12:59:56+03:00"
+    },
+    {
+      "id": "61ba7ab0b387f1f11302dd99",
+      "valor": 1090.9855,
+      "tipo": 1,
+      "estabelecimento": "FORTEAN",
+      "registered": "2020-09-02T05:56:54+03:00"
+    },
+    {
+      "id": "61ba7ab083f23698b24d7039",
+      "valor": 2928.8899,
+      "tipo": 1,
+      "estabelecimento": "ORBALIX",
+      "registered": "2016-03-27T07:44:38+03:00"
+    },
+    {
+      "id": "61ba7ab06e58ef2755663355",
+      "valor": 1024.5468,
+      "tipo": 1,
+      "estabelecimento": "PLEXIA",
+      "registered": "2017-03-25T01:41:07+03:00"
+    },
+    {
+      "id": "61ba7ab0dcb3e5c734722a48",
+      "valor": 2541.1598,
+      "tipo": 2,
+      "estabelecimento": "SONIQUE",
+      "registered": "2017-02-25T12:15:21+03:00"
+    },
+    {
+      "id": "61ba7ab0ffacd42051961754",
+      "valor": 2171.3945,
+      "tipo": 1,
+      "estabelecimento": "GEEKETRON",
+      "registered": "2020-05-13T03:04:32+03:00"
+    },
+    {
+      "id": "61ba7ab0fde0f8b739101cef",
+      "valor": 3805.5309,
+      "tipo": 1,
+      "estabelecimento": "COMBOGEN",
+      "registered": "2014-08-22T01:20:08+03:00"
+    },
+    {
+      "id": "61ba7ab029cd617b8436830a",
+      "valor": 1789.2889,
+      "tipo": 1,
+      "estabelecimento": "QUARMONY",
+      "registered": "2017-07-13T06:13:10+03:00"
+    },
+    {
+      "id": "61ba7ab093f1d6a7e945c530",
+      "valor": 2588.7942,
+      "tipo": 1,
+      "estabelecimento": "NSPIRE",
+      "registered": "2017-07-07T03:05:53+03:00"
+    },
+    {
+      "id": "61ba7ab08e4a9922f448e45f",
+      "valor": 3402.0839,
+      "tipo": 1,
+      "estabelecimento": "NURALI",
+      "registered": "2017-06-22T03:46:36+03:00"
+    },
+    {
+      "id": "61ba7ab009bf146a816c32e7",
+      "valor": 2141.321,
+      "tipo": 1,
+      "estabelecimento": "AFFLUEX",
+      "registered": "2017-11-25T09:53:50+02:00"
+    },
+    {
+      "id": "61ba7ab00e37996c2fd62645",
+      "valor": 1000.5361,
+      "tipo": 2,
+      "estabelecimento": "ZOARERE",
+      "registered": "2016-04-30T09:36:13+03:00"
+    },
+    {
+      "id": "61ba7ab0fac01621bb818756",
+      "valor": 3571.2357,
+      "tipo": 2,
+      "estabelecimento": "FUTURIZE",
+      "registered": "2019-12-08T06:22:14+03:00"
+    },
+    {
+      "id": "61ba7ab066a0ca94a102946b",
+      "valor": 2860.3041,
+      "tipo": 1,
+      "estabelecimento": "BRAINQUIL",
+      "registered": "2017-01-08T05:13:22+02:00"
+    },
+    {
+      "id": "61ba7ab0798929c3ba47399f",
+      "valor": 1727.6133,
+      "tipo": 1,
+      "estabelecimento": "CYTREX",
+      "registered": "2017-08-28T06:25:43+03:00"
+    },
+    {
+      "id": "61ba7ab0b3c6737d08259ecf",
+      "valor": 1894.4607,
+      "tipo": 2,
+      "estabelecimento": "KEENGEN",
+      "registered": "2017-03-08T05:30:24+03:00"
+    },
+    {
+      "id": "61ba7ab0997b35df3ca5f513",
+      "valor": 3527.8565,
+      "tipo": 1,
+      "estabelecimento": "CONCILITY",
+      "registered": "2020-03-23T02:09:25+03:00"
+    },
+    {
+      "id": "61ba7ab0f2a2aa4f45dd63cc",
+      "valor": 2106.6227,
+      "tipo": 1,
+      "estabelecimento": "ENDIPIN",
+      "registered": "2019-05-02T05:26:05+03:00"
+    },
+    {
+      "id": "61ba7ab0dc81965df7ae9b3f",
+      "valor": 3791.7698,
+      "tipo": 2,
+      "estabelecimento": "JUNIPOOR",
+      "registered": "2018-02-12T06:23:13+02:00"
+    },
+    {
+      "id": "61ba7ab02f32b778c7d07f55",
+      "valor": 1427.4229,
+      "tipo": 1,
+      "estabelecimento": "ZENTILITY",
+      "registered": "2016-07-23T03:59:28+03:00"
+    },
+    {
+      "id": "61ba7ab087247103ede1747b",
+      "valor": 1942.5256,
+      "tipo": 2,
+      "estabelecimento": "PLASMOS",
+      "registered": "2017-04-22T09:54:22+03:00"
+    },
+    {
+      "id": "61ba7ab0cc81c9e75b24e364",
+      "valor": 3697.5702,
+      "tipo": 1,
+      "estabelecimento": "ICOLOGY",
+      "registered": "2020-01-11T10:53:14+03:00"
+    },
+    {
+      "id": "61ba7ab0b7feeb782a7c1c57",
+      "valor": 2295.8597,
+      "tipo": 2,
+      "estabelecimento": "PHOLIO",
+      "registered": "2020-08-17T08:05:06+03:00"
+    },
+    {
+      "id": "61ba7ab0da22322822eb6c43",
+      "valor": 1914.501,
+      "tipo": 1,
+      "estabelecimento": "QUADEEBO",
+      "registered": "2014-01-03T12:39:00+02:00"
+    },
+    {
+      "id": "61ba7ab029c234ad8bf5ae3d",
+      "valor": 3443.7543,
+      "tipo": 1,
+      "estabelecimento": "CINASTER",
+      "registered": "2015-05-09T07:08:11+03:00"
+    },
+    {
+      "id": "61ba7ab0953c1705c6acb8fb",
+      "valor": 3073.0457,
+      "tipo": 1,
+      "estabelecimento": "OPTYK",
+      "registered": "2015-01-23T05:35:57+02:00"
+    },
+    {
+      "id": "61ba7ab005b3a8f909feb7b9",
+      "valor": 1301.7997,
+      "tipo": 2,
+      "estabelecimento": "DEVILTOE",
+      "registered": "2015-05-27T03:05:22+03:00"
+    },
+    {
+      "id": "61ba7ab026997d679ae757ca",
+      "valor": 1679.0102,
+      "tipo": 2,
+      "estabelecimento": "QUILK",
+      "registered": "2016-12-13T06:11:05+02:00"
+    },
+    {
+      "id": "61ba7ab0de33f24e7db36bc6",
+      "valor": 2861.5687,
+      "tipo": 2,
+      "estabelecimento": "ZENTHALL",
+      "registered": "2017-10-01T04:38:05+03:00"
+    },
+    {
+      "id": "61ba7ab0f195028ed233a7f6",
+      "valor": 1012.3569,
+      "tipo": 2,
+      "estabelecimento": "SPLINX",
+      "registered": "2016-11-22T02:12:20+02:00"
+    },
+    {
+      "id": "61ba7ab0fcbb480c13ed2246",
+      "valor": 1669.9711,
+      "tipo": 2,
+      "estabelecimento": "AQUAZURE",
+      "registered": "2016-08-26T11:18:09+03:00"
+    },
+    {
+      "id": "61ba7ab01ddd2069a454582e",
+      "valor": 2621.1794,
+      "tipo": 2,
+      "estabelecimento": "BLEENDOT",
+      "registered": "2015-01-04T04:22:41+02:00"
+    },
+    {
+      "id": "61ba7ab0db1e58673fad8bbd",
+      "valor": 3917.4304,
+      "tipo": 2,
+      "estabelecimento": "ORONOKO",
+      "registered": "2019-03-08T06:46:29+03:00"
+    },
+    {
+      "id": "61ba7ab066ea3020aee46199",
+      "valor": 2820.1737,
+      "tipo": 2,
+      "estabelecimento": "CINESANCT",
+      "registered": "2015-12-26T01:57:30+02:00"
+    },
+    {
+      "id": "61ba7ab049e6bda74216aad2",
+      "valor": 1761.4068,
+      "tipo": 1,
+      "estabelecimento": "BILLMED",
+      "registered": "2016-10-03T02:58:50+03:00"
+    },
+    {
+      "id": "61ba7ab05c459a7e57505e07",
+      "valor": 3323.8381,
+      "tipo": 2,
+      "estabelecimento": "DEMINIMUM",
+      "registered": "2021-04-11T06:41:38+03:00"
+    },
+    {
+      "id": "61ba7ab0e15c19a895e590b2",
+      "valor": 3839.7425,
+      "tipo": 2,
+      "estabelecimento": "CAXT",
+      "registered": "2021-05-20T01:11:32+03:00"
+    },
+    {
+      "id": "61ba7ab0e74ca29d94e20a06",
+      "valor": 3710.1868,
+      "tipo": 2,
+      "estabelecimento": "EQUITAX",
+      "registered": "2014-12-23T10:33:21+02:00"
+    },
+    {
+      "id": "61ba7ab06c6e21bbeda6278b",
+      "valor": 3982.3167,
+      "tipo": 2,
+      "estabelecimento": "PROWASTE",
+      "registered": "2019-12-11T01:50:54+03:00"
+    },
+    {
+      "id": "61ba7ab0162a019b27f3a2a8",
+      "valor": 1493.8615,
+      "tipo": 2,
+      "estabelecimento": "NAXDIS",
+      "registered": "2015-06-05T08:11:20+03:00"
+    },
+    {
+      "id": "61ba7ab0b1888dcb61aff8b7",
+      "valor": 1902.8071,
+      "tipo": 1,
+      "estabelecimento": "ENTROPIX",
+      "registered": "2017-04-04T02:10:33+03:00"
+    },
+    {
+      "id": "61ba7ab0363baea6553f17d7",
+      "valor": 2924.5762,
+      "tipo": 1,
+      "estabelecimento": "KRAGGLE",
+      "registered": "2016-08-16T09:05:20+03:00"
+    },
+    {
+      "id": "61ba7ab0ca5623716c44f0f7",
+      "valor": 2582.4297,
+      "tipo": 1,
+      "estabelecimento": "FUELWORKS",
+      "registered": "2014-04-26T05:46:41+03:00"
+    },
+    {
+      "id": "61ba7ab066f71319e7d98d43",
+      "valor": 1049.6106,
+      "tipo": 2,
+      "estabelecimento": "XTH",
+      "registered": "2014-06-28T01:33:25+03:00"
+    },
+    {
+      "id": "61ba7ab099a3384650224528",
+      "valor": 3344.66,
+      "tipo": 1,
+      "estabelecimento": "ASSISTIX",
+      "registered": "2015-12-01T11:58:34+02:00"
+    },
+    {
+      "id": "61ba7ab02550e4c9c0263463",
+      "valor": 3113.0782,
+      "tipo": 1,
+      "estabelecimento": "UNDERTAP",
+      "registered": "2015-01-18T12:04:56+02:00"
+    },
+    {
+      "id": "61ba7ab0c6ae5f77ab7e4be8",
+      "valor": 2592.7289,
+      "tipo": 2,
+      "estabelecimento": "ZEPITOPE",
+      "registered": "2018-08-30T01:30:09+03:00"
+    },
+    {
+      "id": "61ba7ab0c6ce453b9a8a1470",
+      "valor": 3614.196,
+      "tipo": 1,
+      "estabelecimento": "ZAPHIRE",
+      "registered": "2016-03-03T06:05:15+03:00"
+    },
+    {
+      "id": "61ba7ab0bc7ceaaf9259f75d",
+      "valor": 2308.6458,
+      "tipo": 1,
+      "estabelecimento": "SKYPLEX",
+      "registered": "2021-06-18T05:19:41+03:00"
+    },
+    {
+      "id": "61ba7ab025b4a73463c0431e",
+      "valor": 2815.2906,
+      "tipo": 2,
+      "estabelecimento": "COMSTRUCT",
+      "registered": "2020-02-13T05:38:54+03:00"
+    },
+    {
+      "id": "61ba7ab0d7502dc5a39d979c",
+      "valor": 1383.8747,
+      "tipo": 1,
+      "estabelecimento": "ZOLAREX",
+      "registered": "2016-10-09T06:48:55+03:00"
+    },
+    {
+      "id": "61ba7ab0df32fc401941dab7",
+      "valor": 2785.5656,
+      "tipo": 2,
+      "estabelecimento": "ENTHAZE",
+      "registered": "2019-07-27T06:23:04+03:00"
+    },
+    {
+      "id": "61ba7ab08ce9cd6317da68f4",
+      "valor": 3234.7104,
+      "tipo": 1,
+      "estabelecimento": "ZIGGLES",
+      "registered": "2019-03-07T01:15:34+03:00"
+    },
+    {
+      "id": "61ba7ab0130c38c74571ac19",
+      "valor": 3638.9276,
+      "tipo": 1,
+      "estabelecimento": "DANJA",
+      "registered": "2019-12-26T06:54:56+03:00"
+    },
+    {
+      "id": "61ba7ab0b6bea951d6a4dcf1",
+      "valor": 3944.2076,
+      "tipo": 1,
+      "estabelecimento": "VOIPA",
+      "registered": "2015-12-03T12:24:19+02:00"
+    },
+    {
+      "id": "61ba7ab04b271af68e1dcc9c",
+      "valor": 1249.7877,
+      "tipo": 2,
+      "estabelecimento": "NETERIA",
+      "registered": "2017-06-20T11:14:11+03:00"
+    },
+    {
+      "id": "61ba7ab031e8c42050336d63",
+      "valor": 2393.5746,
+      "tipo": 1,
+      "estabelecimento": "OATFARM",
+      "registered": "2019-07-03T01:07:14+03:00"
+    },
+    {
+      "id": "61ba7ab054b23032bf6efbd6",
+      "valor": 3230.3852,
+      "tipo": 1,
+      "estabelecimento": "VITRICOMP",
+      "registered": "2019-11-10T08:53:17+03:00"
+    },
+    {
+      "id": "61ba7ab0696bf010955d603b",
+      "valor": 2385.8008,
+      "tipo": 1,
+      "estabelecimento": "KAGGLE",
+      "registered": "2016-05-09T05:35:35+03:00"
+    },
+    {
+      "id": "61ba7ab008d2e3c7f456fd2f",
+      "valor": 2739.9834,
+      "tipo": 2,
+      "estabelecimento": "SPHERIX",
+      "registered": "2016-04-05T08:23:45+03:00"
+    },
+    {
+      "id": "61ba7ab0b645d4dd261e1981",
+      "valor": 2643.3326,
+      "tipo": 2,
+      "estabelecimento": "DEEPENDS",
+      "registered": "2017-04-10T07:31:10+03:00"
+    },
+    {
+      "id": "61ba7ab0658b481e3b81e09f",
+      "valor": 2011.283,
+      "tipo": 1,
+      "estabelecimento": "CORPULSE",
+      "registered": "2016-08-24T05:13:10+03:00"
+    },
+    {
+      "id": "61ba7ab083b4457f27694685",
+      "valor": 3664.6176,
+      "tipo": 1,
+      "estabelecimento": "GOGOL",
+      "registered": "2014-01-05T03:48:38+02:00"
+    },
+    {
+      "id": "61ba7ab062fed8c8900fb137",
+      "valor": 2452.8447,
+      "tipo": 2,
+      "estabelecimento": "COMVENE",
+      "registered": "2016-06-09T09:14:20+03:00"
+    },
+    {
+      "id": "61ba7ab0786040d6e8ed56d3",
+      "valor": 1377.5158,
+      "tipo": 2,
+      "estabelecimento": "KENEGY",
+      "registered": "2016-08-31T07:08:24+03:00"
+    },
+    {
+      "id": "61ba7ab0d23f72a067146c53",
+      "valor": 1980.8835,
+      "tipo": 2,
+      "estabelecimento": "KNEEDLES",
+      "registered": "2014-05-06T02:48:38+03:00"
+    },
+    {
+      "id": "61ba7ab0a4aaac4b4247694e",
+      "valor": 1388.3658,
+      "tipo": 2,
+      "estabelecimento": "FILODYNE",
+      "registered": "2021-06-22T05:18:33+03:00"
+    },
+    {
+      "id": "61ba7ab0bc49f6001e1c2e01",
+      "valor": 2715.7474,
+      "tipo": 2,
+      "estabelecimento": "DIGINETIC",
+      "registered": "2015-05-16T01:20:31+03:00"
+    },
+    {
+      "id": "61ba7ab01e3789e5ae5b2213",
+      "valor": 1000.4778,
+      "tipo": 1,
+      "estabelecimento": "VORTEXACO",
+      "registered": "2017-09-06T08:28:02+03:00"
+    },
+    {
+      "id": "61ba7ab0caee9ee370fcd651",
+      "valor": 2083.2044,
+      "tipo": 1,
+      "estabelecimento": "JAMNATION",
+      "registered": "2016-12-29T03:58:33+02:00"
+    },
+    {
+      "id": "61ba7ab029ec299735b98c38",
+      "valor": 2576.8182,
+      "tipo": 2,
+      "estabelecimento": "UPDAT",
+      "registered": "2017-12-16T02:09:00+02:00"
+    },
+    {
+      "id": "61ba7ab0cdab26d43ac42fe2",
+      "valor": 3262.5764,
+      "tipo": 2,
+      "estabelecimento": "CUJO",
+      "registered": "2017-04-26T10:53:50+03:00"
+    },
+    {
+      "id": "61ba7ab0fba6d88ff3e5652d",
+      "valor": 1777.6184,
+      "tipo": 1,
+      "estabelecimento": "QUONATA",
+      "registered": "2016-07-08T01:24:32+03:00"
+    },
+    {
+      "id": "61ba7ab043ad44fbc4ea5835",
+      "valor": 3030.508,
+      "tipo": 2,
+      "estabelecimento": "MAROPTIC",
+      "registered": "2015-01-12T10:18:15+02:00"
+    },
+    {
+      "id": "61ba7ab045fe94dfb2d37706",
+      "valor": 3929.4961,
+      "tipo": 1,
+      "estabelecimento": "FUTURIS",
+      "registered": "2014-11-21T12:55:37+02:00"
+    },
+    {
+      "id": "61ba7ab0ae0c7e8b4da43e77",
+      "valor": 1470.1308,
+      "tipo": 2,
+      "estabelecimento": "INSURESYS",
+      "registered": "2015-11-02T10:33:36+02:00"
+    },
+    {
+      "id": "61ba7ab07d82ef8ce3e514bf",
+      "valor": 3312.3483,
+      "tipo": 1,
+      "estabelecimento": "ZENSUS",
+      "registered": "2017-02-06T06:02:18+02:00"
+    },
+    {
+      "id": "61ba7ab01e2789c5dc949387",
+      "valor": 3165.5946,
+      "tipo": 1,
+      "estabelecimento": "DATAGENE",
+      "registered": "2014-04-02T11:56:38+03:00"
+    },
+    {
+      "id": "61ba7ab09b84609fc714d454",
+      "valor": 3541.3934,
+      "tipo": 2,
+      "estabelecimento": "DANCERITY",
+      "registered": "2017-01-06T09:09:43+02:00"
+    },
+    {
+      "id": "61ba7ab091f9be86570b6abf",
+      "valor": 1221.2083,
+      "tipo": 2,
+      "estabelecimento": "INEAR",
+      "registered": "2016-12-13T11:18:40+02:00"
+    },
+    {
+      "id": "61ba7ab052bb3f1e158cc033",
+      "valor": 2970.7991,
+      "tipo": 2,
+      "estabelecimento": "MUSANPOLY",
+      "registered": "2021-09-09T12:06:02+03:00"
+    },
+    {
+      "id": "61ba7ab06d8d300ab84316b9",
+      "valor": 1523.5618,
+      "tipo": 2,
+      "estabelecimento": "FIBRODYNE",
+      "registered": "2016-02-05T07:21:58+02:00"
+    },
+    {
+      "id": "61ba7ab0bf5614080f492e11",
+      "valor": 1865.5096,
+      "tipo": 2,
+      "estabelecimento": "UTARA",
+      "registered": "2021-11-02T05:26:38+03:00"
+    },
+    {
+      "id": "61ba7ab06e8f241b0d76c668",
+      "valor": 2467.5537,
+      "tipo": 1,
+      "estabelecimento": "IPLAX",
+      "registered": "2016-05-06T08:58:24+03:00"
+    },
+    {
+      "id": "61ba7ab006378d33ae2fa64a",
+      "valor": 1216.6413,
+      "tipo": 2,
+      "estabelecimento": "ASSITIA",
+      "registered": "2016-12-15T02:19:44+02:00"
+    },
+    {
+      "id": "61ba7ab0f7983a6a1d5fe610",
+      "valor": 2136.2343,
+      "tipo": 2,
+      "estabelecimento": "CONFRENZY",
+      "registered": "2015-01-18T11:53:08+02:00"
+    },
+    {
+      "id": "61ba7ab0de455f23f52cc564",
+      "valor": 1388.9049,
+      "tipo": 1,
+      "estabelecimento": "INTRAWEAR",
+      "registered": "2017-01-20T01:07:03+02:00"
+    },
+    {
+      "id": "61ba7ab0c161b7bb4299c538",
+      "valor": 2648.2422,
+      "tipo": 2,
+      "estabelecimento": "MEDMEX",
+      "registered": "2020-12-29T09:07:44+03:00"
+    },
+    {
+      "id": "61ba7ab0b368d903a00fe464",
+      "valor": 1636.147,
+      "tipo": 2,
+      "estabelecimento": "BOILICON",
+      "registered": "2017-05-07T06:26:25+03:00"
+    },
+    {
+      "id": "61ba7ab0cfaeaaeeebd3e851",
+      "valor": 2349.3651,
+      "tipo": 1,
+      "estabelecimento": "TWIGGERY",
+      "registered": "2018-12-08T06:00:09+02:00"
+    },
+    {
+      "id": "61ba7ab05060cc6bfe18cc41",
+      "valor": 2055.7797,
+      "tipo": 1,
+      "estabelecimento": "TALAE",
+      "registered": "2019-11-13T07:03:37+03:00"
+    },
+    {
+      "id": "61ba7ab0aa0d48f89a285a4a",
+      "valor": 1577.148,
+      "tipo": 1,
+      "estabelecimento": "QUANTALIA",
+      "registered": "2019-04-19T12:03:33+03:00"
+    },
+    {
+      "id": "61ba7ab029617c0c1d576b62",
+      "valor": 3962.3997,
+      "tipo": 1,
+      "estabelecimento": "PROXSOFT",
+      "registered": "2014-02-25T02:08:34+03:00"
+    },
+    {
+      "id": "61ba7ab0182e4a6841e45ea0",
+      "valor": 2408.3975,
+      "tipo": 1,
+      "estabelecimento": "HIVEDOM",
+      "registered": "2014-02-22T08:16:32+03:00"
+    },
+    {
+      "id": "61ba7ab0650e2b2b71b6afae",
+      "valor": 2461.3076,
+      "tipo": 2,
+      "estabelecimento": "IRACK",
+      "registered": "2016-02-20T09:39:59+02:00"
+    },
+    {
+      "id": "61ba7ab07433b5cbd67fe2ad",
+      "valor": 2392.4449,
+      "tipo": 1,
+      "estabelecimento": "XIIX",
+      "registered": "2016-09-25T09:46:48+03:00"
+    },
+    {
+      "id": "61ba7ab0705e54c2bb69095d",
+      "valor": 2090.8329,
+      "tipo": 2,
+      "estabelecimento": "FLOTONIC",
+      "registered": "2016-05-22T03:59:19+03:00"
+    },
+    {
+      "id": "61ba7ab0fc9f656a38262d12",
+      "valor": 2352.7958,
+      "tipo": 2,
+      "estabelecimento": "OZEAN",
+      "registered": "2020-07-20T03:13:45+03:00"
+    },
+    {
+      "id": "61ba7ab0127409c909b1e06e",
+      "valor": 2060.1273,
+      "tipo": 2,
+      "estabelecimento": "KINDALOO",
+      "registered": "2018-07-22T09:53:37+03:00"
+    },
+    {
+      "id": "61ba7ab0bfba180affae4048",
+      "valor": 3816.6344,
+      "tipo": 2,
+      "estabelecimento": "EBIDCO",
+      "registered": "2016-04-28T03:53:11+03:00"
+    },
+    {
+      "id": "61ba7ab0c7f817c0fc066009",
+      "valor": 2469.2651,
+      "tipo": 2,
+      "estabelecimento": "RAMEON",
+      "registered": "2016-01-26T07:54:39+02:00"
+    },
+    {
+      "id": "61ba7ab0224e7b428cdf039f",
+      "valor": 2841.1377,
+      "tipo": 2,
+      "estabelecimento": "SONGBIRD",
+      "registered": "2018-06-17T11:46:48+03:00"
+    },
+    {
+      "id": "61ba7ab0546bcf34da2f655b",
+      "valor": 1988.3313,
+      "tipo": 2,
+      "estabelecimento": "STEELTAB",
+      "registered": "2015-01-12T12:17:31+02:00"
+    },
+    {
+      "id": "61ba7ab0a7d44a9f8c0c9b5c",
+      "valor": 2682.6241,
+      "tipo": 1,
+      "estabelecimento": "TERRAGO",
+      "registered": "2020-12-18T04:40:06+03:00"
+    },
+    {
+      "id": "61ba7ab085f6101f4ed80338",
+      "valor": 1159.205,
+      "tipo": 1,
+      "estabelecimento": "QUARX",
+      "registered": "2017-10-29T06:42:25+02:00"
+    },
+    {
+      "id": "61ba7ab01bf1994b5c338901",
+      "valor": 1724.8184,
+      "tipo": 2,
+      "estabelecimento": "UNCORP",
+      "registered": "2015-05-26T06:13:26+03:00"
+    },
+    {
+      "id": "61ba7ab0456d5f04025ee245",
+      "valor": 2984.4952,
+      "tipo": 1,
+      "estabelecimento": "LUXURIA",
+      "registered": "2020-02-12T03:57:48+03:00"
+    },
+    {
+      "id": "61ba7ab0b0a8f82de84ae2d9",
+      "valor": 2227.7887,
+      "tipo": 1,
+      "estabelecimento": "TYPHONICA",
+      "registered": "2020-08-08T11:52:02+03:00"
+    },
+    {
+      "id": "61ba7ab031b2cae9506b955d",
+      "valor": 1248.097,
+      "tipo": 2,
+      "estabelecimento": "ZAPPIX",
+      "registered": "2017-09-02T11:54:15+03:00"
+    },
+    {
+      "id": "61ba7ab014d0ab7802a11fd7",
+      "valor": 1948.6007,
+      "tipo": 2,
+      "estabelecimento": "PODUNK",
+      "registered": "2021-06-24T05:23:08+03:00"
+    },
+    {
+      "id": "61ba7ab0023f8762da13d06e",
+      "valor": 1470.4961,
+      "tipo": 2,
+      "estabelecimento": "BUNGA",
+      "registered": "2017-08-01T11:23:12+03:00"
+    },
+    {
+      "id": "61ba7ab09e20f52c2509a7ab",
+      "valor": 2779.6073,
+      "tipo": 2,
+      "estabelecimento": "RUBADUB",
+      "registered": "2020-10-26T03:36:54+03:00"
+    },
+    {
+      "id": "61ba7ab07796961571f9f971",
+      "valor": 3081.8848,
+      "tipo": 1,
+      "estabelecimento": "VELITY",
+      "registered": "2020-11-26T12:16:24+03:00"
+    },
+    {
+      "id": "61ba7ab0eb00f9422ec9559a",
+      "valor": 3310.3186,
+      "tipo": 1,
+      "estabelecimento": "SIGNIDYNE",
+      "registered": "2018-04-11T11:41:53+03:00"
+    },
+    {
+      "id": "61ba7ab043a78f9bfc3091ae",
+      "valor": 3897.6443,
+      "tipo": 1,
+      "estabelecimento": "ZANITY",
+      "registered": "2020-01-09T03:35:27+03:00"
+    },
+    {
+      "id": "61ba7ab0b5e440f2bb4018c3",
+      "valor": 2601.2407,
+      "tipo": 1,
+      "estabelecimento": "BIOSPAN",
+      "registered": "2019-08-11T06:45:26+03:00"
+    },
+    {
+      "id": "61ba7ab04e24dfede1377002",
+      "valor": 1615.4071,
+      "tipo": 2,
+      "estabelecimento": "ZAGGLES",
+      "registered": "2021-09-02T05:19:58+03:00"
+    },
+    {
+      "id": "61ba7ab00a49f8b0fb7d5f61",
+      "valor": 1089.2995,
+      "tipo": 2,
+      "estabelecimento": "ROTODYNE",
+      "registered": "2017-07-02T11:39:12+03:00"
+    },
+    {
+      "id": "61ba7ab02dbe18c4a7663326",
+      "valor": 2034.714,
+      "tipo": 2,
+      "estabelecimento": "PRINTSPAN",
+      "registered": "2016-08-30T03:44:30+03:00"
+    },
+    {
+      "id": "61ba7ab0226f841658a280c2",
+      "valor": 1913.9626,
+      "tipo": 2,
+      "estabelecimento": "VELOS",
+      "registered": "2019-08-12T07:50:17+03:00"
+    },
+    {
+      "id": "61ba7ab07b341cd4b0001571",
+      "valor": 1934.6272,
+      "tipo": 1,
+      "estabelecimento": "GADTRON",
+      "registered": "2021-07-14T04:25:42+03:00"
+    },
+    {
+      "id": "61ba7ab0acee06b78d8e08bf",
+      "valor": 2615.5495,
+      "tipo": 1,
+      "estabelecimento": "EXTRAWEAR",
+      "registered": "2017-09-25T11:52:06+03:00"
+    },
+    {
+      "id": "61ba7ab0c33b60a68d753b4f",
+      "valor": 1361.9729,
+      "tipo": 1,
+      "estabelecimento": "ZAGGLE",
+      "registered": "2019-08-31T02:11:50+03:00"
+    },
+    {
+      "id": "61ba7ab03636ce83091a488d",
+      "valor": 1161.4565,
+      "tipo": 1,
+      "estabelecimento": "MUSIX",
+      "registered": "2019-12-08T05:50:01+03:00"
+    },
+    {
+      "id": "61ba7ab03cb9a7c9501ae7c0",
+      "valor": 2606.3923,
+      "tipo": 1,
+      "estabelecimento": "EARTHPLEX",
+      "registered": "2021-12-09T04:14:24+03:00"
+    },
+    {
+      "id": "61ba7ab028b87e2e61f10fbb",
+      "valor": 2881.5033,
+      "tipo": 1,
+      "estabelecimento": "SILODYNE",
+      "registered": "2021-06-05T04:20:34+03:00"
+    },
+    {
+      "id": "61ba7ab081060c206926379a",
+      "valor": 2340.2037,
+      "tipo": 1,
+      "estabelecimento": "WARETEL",
+      "registered": "2016-06-27T05:13:28+03:00"
+    },
+    {
+      "id": "61ba7ab056ad84a989e6e45b",
+      "valor": 2118.7621,
+      "tipo": 2,
+      "estabelecimento": "ARCHITAX",
+      "registered": "2021-12-06T02:45:23+03:00"
+    },
+    {
+      "id": "61ba7ab0aa278b6ad31bef8f",
+      "valor": 3378.4288,
+      "tipo": 2,
+      "estabelecimento": "EXOSPEED",
+      "registered": "2020-03-01T07:22:43+03:00"
+    },
+    {
+      "id": "61ba7ab0fcfaa04f6b9e8cc5",
+      "valor": 3394.7643,
+      "tipo": 2,
+      "estabelecimento": "ESSENSIA",
+      "registered": "2016-05-15T03:56:19+03:00"
+    },
+    {
+      "id": "61ba7ab0a016ae0ccc4c4412",
+      "valor": 3125.8915,
+      "tipo": 2,
+      "estabelecimento": "PAWNAGRA",
+      "registered": "2019-07-24T06:20:54+03:00"
+    },
+    {
+      "id": "61ba7ab0dbcde0ce3ed4c306",
+      "valor": 1511.4008,
+      "tipo": 1,
+      "estabelecimento": "ZIPAK",
+      "registered": "2020-08-09T08:07:10+03:00"
+    },
+    {
+      "id": "61ba7ab0e95cd7459ea47be9",
+      "valor": 1945.4083,
+      "tipo": 2,
+      "estabelecimento": "ZIDANT",
+      "registered": "2020-01-15T06:41:29+03:00"
+    },
+    {
+      "id": "61ba7ab094ffecff5c0241f3",
+      "valor": 2355.4578,
+      "tipo": 2,
+      "estabelecimento": "RONELON",
+      "registered": "2018-12-10T09:10:37+02:00"
+    },
+    {
+      "id": "61ba7ab0053fa9a477a56ec7",
+      "valor": 2767.5121,
+      "tipo": 2,
+      "estabelecimento": "CHORIZON",
+      "registered": "2016-12-05T03:55:02+02:00"
+    },
+    {
+      "id": "61ba7ab0e10cb6f76c18a0b5",
+      "valor": 2360.447,
+      "tipo": 1,
+      "estabelecimento": "FLUMBO",
+      "registered": "2014-06-19T01:57:15+03:00"
+    },
+    {
+      "id": "61ba7ab036a958a5c6fd843e",
+      "valor": 1392.3764,
+      "tipo": 1,
+      "estabelecimento": "SENSATE",
+      "registered": "2015-05-11T05:49:59+03:00"
+    },
+    {
+      "id": "61ba7ab074aaecfaa45e8d4c",
+      "valor": 2207.3366,
+      "tipo": 1,
+      "estabelecimento": "BUZZOPIA",
+      "registered": "2018-12-04T04:29:36+02:00"
+    },
+    {
+      "id": "61ba7ab06251267413a84d91",
+      "valor": 1292.0405,
+      "tipo": 2,
+      "estabelecimento": "ELECTONIC",
+      "registered": "2021-10-19T05:00:07+03:00"
+    },
+    {
+      "id": "61ba7ab064fbd7c88c27724a",
+      "valor": 1245.4661,
+      "tipo": 1,
+      "estabelecimento": "AEORA",
+      "registered": "2014-05-22T05:05:03+03:00"
+    },
+    {
+      "id": "61ba7ab0484a33e027d11782",
+      "valor": 3750.8505,
+      "tipo": 2,
+      "estabelecimento": "CENTREXIN",
+      "registered": "2021-03-16T11:15:46+03:00"
+    },
+    {
+      "id": "61ba7ab03702fe4afbd05040",
+      "valor": 1854.8089,
+      "tipo": 2,
+      "estabelecimento": "REPETWIRE",
+      "registered": "2020-02-25T07:15:43+03:00"
+    },
+    {
+      "id": "61ba7ab0fd91884a4565c525",
+      "valor": 2873.7089,
+      "tipo": 2,
+      "estabelecimento": "QUAILCOM",
+      "registered": "2017-05-11T11:11:00+03:00"
+    },
+    {
+      "id": "61ba7ab0aa41861fcaa7219c",
+      "valor": 1820.0675,
+      "tipo": 2,
+      "estabelecimento": "UNIA",
+      "registered": "2020-12-11T12:29:14+03:00"
+    },
+    {
+      "id": "61ba7ab0f49ecde2f0ba08a3",
+      "valor": 2375.6445,
+      "tipo": 2,
+      "estabelecimento": "RETROTEX",
+      "registered": "2018-02-13T12:33:30+02:00"
+    },
+    {
+      "id": "61ba7ab01b0ccd2daff0a0cd",
+      "valor": 2624.6607,
+      "tipo": 1,
+      "estabelecimento": "BIOHAB",
+      "registered": "2016-10-24T08:27:05+02:00"
+    },
+    {
+      "id": "61ba7ab086b6588e70deb14f",
+      "valor": 2309.1511,
+      "tipo": 1,
+      "estabelecimento": "ECSTASIA",
+      "registered": "2014-06-15T08:07:52+03:00"
+    },
+    {
+      "id": "61ba7ab0f7b1fb49e928fcff",
+      "valor": 2191.6391,
+      "tipo": 2,
+      "estabelecimento": "EMTRAC",
+      "registered": "2015-04-27T10:20:19+03:00"
+    },
+    {
+      "id": "61ba7ab00778123bca1bfb4a",
+      "valor": 1859.5706,
+      "tipo": 2,
+      "estabelecimento": "PYRAMIA",
+      "registered": "2017-09-01T05:36:43+03:00"
+    },
+    {
+      "id": "61ba7ab0ef5bb461d620d808",
+      "valor": 3325.8981,
+      "tipo": 2,
+      "estabelecimento": "GEEKKO",
+      "registered": "2020-02-07T08:36:18+03:00"
+    },
+    {
+      "id": "61ba7ab0e8b2205c9460a9eb",
+      "valor": 3824.3242,
+      "tipo": 1,
+      "estabelecimento": "ASSISTIA",
+      "registered": "2021-07-25T10:41:32+03:00"
+    },
+    {
+      "id": "61ba7ab0b4a3fb9a84b54531",
+      "valor": 3586.8565,
+      "tipo": 2,
+      "estabelecimento": "RECOGNIA",
+      "registered": "2021-08-15T01:45:41+03:00"
+    },
+    {
+      "id": "61ba7ab0b013ddf8972f219b",
+      "valor": 3251.3865,
+      "tipo": 2,
+      "estabelecimento": "CANOPOLY",
+      "registered": "2020-05-24T05:03:54+03:00"
+    },
+    {
+      "id": "61ba7ab0eab7295efc0aef38",
+      "valor": 1709.7331,
+      "tipo": 1,
+      "estabelecimento": "SARASONIC",
+      "registered": "2021-01-13T02:00:33+03:00"
+    },
+    {
+      "id": "61ba7ab02b713c2a5c324654",
+      "valor": 1939.5425,
+      "tipo": 1,
+      "estabelecimento": "HAWKSTER",
+      "registered": "2021-01-18T11:48:04+03:00"
+    },
+    {
+      "id": "61ba7ab0f5781d26291d7025",
+      "valor": 2811.3662,
+      "tipo": 2,
+      "estabelecimento": "GEOFARM",
+      "registered": "2015-07-25T12:08:39+03:00"
+    },
+    {
+      "id": "61ba7ab04f1de2998a095163",
+      "valor": 2220.2353,
+      "tipo": 2,
+      "estabelecimento": "INSURETY",
+      "registered": "2020-07-15T09:10:21+03:00"
+    },
+    {
+      "id": "61ba7ab06a8f761b90b499f4",
+      "valor": 1275.7206,
+      "tipo": 2,
+      "estabelecimento": "ZILODYNE",
+      "registered": "2016-11-15T02:19:35+02:00"
+    },
+    {
+      "id": "61ba7ab06facbf61a61d56e7",
+      "valor": 2002.9655,
+      "tipo": 1,
+      "estabelecimento": "FUELTON",
+      "registered": "2020-03-24T12:11:59+03:00"
+    },
+    {
+      "id": "61ba7ab0909fa72fd33414cb",
+      "valor": 1480.7574,
+      "tipo": 1,
+      "estabelecimento": "EARBANG",
+      "registered": "2020-02-25T04:12:30+03:00"
+    },
+    {
+      "id": "61ba7ab09a56a94f71ffef1d",
+      "valor": 3025.181,
+      "tipo": 1,
+      "estabelecimento": "SOFTMICRO",
+      "registered": "2015-11-28T08:32:49+02:00"
+    },
+    {
+      "id": "61ba7ab0cdb81e07c7e9f081",
+      "valor": 2031.6876,
+      "tipo": 2,
+      "estabelecimento": "JUMPSTACK",
+      "registered": "2014-01-08T04:56:38+02:00"
+    },
+    {
+      "id": "61ba7ab0769b1aadd65b25dc",
+      "valor": 2785.6136,
+      "tipo": 1,
+      "estabelecimento": "NUTRALAB",
+      "registered": "2015-07-13T04:34:16+03:00"
+    },
+    {
+      "id": "61ba7ab0f59606d33db55d7a",
+      "valor": 1761.0337,
+      "tipo": 2,
+      "estabelecimento": "BUZZNESS",
+      "registered": "2019-04-30T09:00:36+03:00"
+    },
+    {
+      "id": "61ba7ab0c09d7ef9be5a03a0",
+      "valor": 3761.9176,
+      "tipo": 1,
+      "estabelecimento": "BLUPLANET",
+      "registered": "2020-04-23T07:54:36+03:00"
+    },
+    {
+      "id": "61ba7ab0b36fe8f6c9672746",
+      "valor": 1554.2896,
+      "tipo": 1,
+      "estabelecimento": "EXPOSA",
+      "registered": "2015-05-30T04:24:20+03:00"
+    },
+    {
+      "id": "61ba7ab0e22492e460647853",
+      "valor": 3877.6143,
+      "tipo": 2,
+      "estabelecimento": "MAGNAFONE",
+      "registered": "2016-06-10T08:18:51+03:00"
+    },
+    {
+      "id": "61ba7ab059336b18b5e0d90d",
+      "valor": 3971.7425,
+      "tipo": 1,
+      "estabelecimento": "ECRAZE",
+      "registered": "2018-09-11T12:49:12+03:00"
+    },
+    {
+      "id": "61ba7ab0e2a88cca41e0b333",
+      "valor": 2642.9391,
+      "tipo": 1,
+      "estabelecimento": "DOGNOST",
+      "registered": "2017-05-14T10:08:09+03:00"
+    },
+    {
+      "id": "61ba7ab0a72c8d14f4f0fdbb",
+      "valor": 1860.4245,
+      "tipo": 1,
+      "estabelecimento": "SUREMAX",
+      "registered": "2018-02-13T07:36:27+02:00"
+    },
+    {
+      "id": "61ba7ab02171492c3c1b2a6c",
+      "valor": 2827.4513,
+      "tipo": 1,
+      "estabelecimento": "COMVEX",
+      "registered": "2015-10-09T09:36:49+03:00"
+    },
+    {
+      "id": "61ba7ab035fe24d6663c1930",
+      "valor": 1820.3191,
+      "tipo": 2,
+      "estabelecimento": "DAIDO",
+      "registered": "2019-01-18T11:42:08+02:00"
+    },
+    {
+      "id": "61ba7ab0f7a54e83b62bf1eb",
+      "valor": 2703.9061,
+      "tipo": 1,
+      "estabelecimento": "PRISMATIC",
+      "registered": "2020-08-23T11:19:10+03:00"
+    },
+    {
+      "id": "61ba7ab0e01d35f55a20a38a",
+      "valor": 1960.0253,
+      "tipo": 1,
+      "estabelecimento": "QIMONK",
+      "registered": "2020-08-17T12:49:49+03:00"
+    },
+    {
+      "id": "61ba7ab01a475d669e0a07a7",
+      "valor": 1102.034,
+      "tipo": 2,
+      "estabelecimento": "OLUCORE",
+      "registered": "2021-10-02T05:21:32+03:00"
+    },
+    {
+      "id": "61ba7ab0f1005cec5e93af7b",
+      "valor": 1554.939,
+      "tipo": 2,
+      "estabelecimento": "COMTREK",
+      "registered": "2018-10-15T02:36:24+03:00"
+    },
+    {
+      "id": "61ba7ab03820cae0e34f6677",
+      "valor": 2795.5958,
+      "tipo": 2,
+      "estabelecimento": "COGENTRY",
+      "registered": "2018-09-23T02:54:38+03:00"
+    },
+    {
+      "id": "61ba7ab0d75a6b90e4fe79d3",
+      "valor": 1770.5552,
+      "tipo": 2,
+      "estabelecimento": "DOGSPA",
+      "registered": "2020-10-17T09:34:59+03:00"
+    },
+    {
+      "id": "61ba7ab03c6ea065c498b226",
+      "valor": 2140.8165,
+      "tipo": 2,
+      "estabelecimento": "EVIDENDS",
+      "registered": "2021-05-14T07:35:13+03:00"
+    },
+    {
+      "id": "61ba7ab00e419a95e798a7fb",
+      "valor": 2010.9289,
+      "tipo": 2,
+      "estabelecimento": "SENMAO",
+      "registered": "2019-10-22T12:36:17+03:00"
+    },
+    {
+      "id": "61ba7ab067fa32420f68a3de",
+      "valor": 1178.2486,
+      "tipo": 1,
+      "estabelecimento": "AVIT",
+      "registered": "2014-05-30T10:13:47+03:00"
+    },
+    {
+      "id": "61ba7ab02bdac3b4b993e76f",
+      "valor": 1573.2147,
+      "tipo": 2,
+      "estabelecimento": "TERAPRENE",
+      "registered": "2015-11-05T01:59:06+02:00"
+    },
+    {
+      "id": "61ba7ab0e568975a3c7b3dca",
+      "valor": 1870.2234,
+      "tipo": 1,
+      "estabelecimento": "OVATION",
+      "registered": "2020-01-29T04:43:29+03:00"
+    },
+    {
+      "id": "61ba7ab0fed946482cd665b4",
+      "valor": 3841.5706,
+      "tipo": 2,
+      "estabelecimento": "COMVOY",
+      "registered": "2017-05-25T02:29:08+03:00"
+    },
+    {
+      "id": "61ba7ab074a61dc48fdff396",
+      "valor": 1175.8148,
+      "tipo": 2,
+      "estabelecimento": "JASPER",
+      "registered": "2020-10-05T03:00:12+03:00"
+    },
+    {
+      "id": "61ba7ab03197ed44eb720d4e",
+      "valor": 2281.0769,
+      "tipo": 2,
+      "estabelecimento": "QIAO",
+      "registered": "2016-01-24T05:49:28+02:00"
+    },
+    {
+      "id": "61ba7ab06e185620a9285ea0",
+      "valor": 2548.4182,
+      "tipo": 2,
+      "estabelecimento": "SNOWPOKE",
+      "registered": "2019-02-01T01:29:08+02:00"
+    },
+    {
+      "id": "61ba7ab06a2cd9b2f70b1b4b",
+      "valor": 2833.5232,
+      "tipo": 1,
+      "estabelecimento": "EMTRAK",
+      "registered": "2018-10-03T02:30:05+03:00"
+    },
+    {
+      "id": "61ba7ab0c35474a44417bec4",
+      "valor": 3762.7845,
+      "tipo": 1,
+      "estabelecimento": "ELPRO",
+      "registered": "2015-01-07T07:39:31+02:00"
+    }
+  ]
+}
